@@ -1,0 +1,21 @@
+# Core dependencies for this project's audit/reconciliation engine
+# (scripts/*.py). The dashboard has its own requirements file
+# (dashboard/requirements.txt) that pulls this one in, since it imports
+# these same scripts.
+#
+# Added 2026-10-04: these were used throughout scripts/ (pandas,
+# pdfplumber) and by Rule 8's ML anomaly detection (scikit-learn,
+# scripts/rule_ml_anomaly_detection.py) without ever being declared here --
+# an environment set up from a requirements file alone (rather than
+# whatever happened to already be installed) would be missing scikit-learn
+# specifically, which surfaces as "Pipeline run failed: No module named
+# 'sklearn'" the moment any report-generating pipeline runs, since
+# combined_report.py imports rule_ml_anomaly_detection at module level.
+# This is an environment/setup gap, not an obsolete or dev-only feature:
+# Rule 8 is a real, tested, documented part of the detection engine (see
+# rule_ml_anomaly_detection.py's own module docstring and
+# tests/test_rule_ml_anomaly_detection.py) -- fixed here by declaring the
+# dependency correctly, not by removing or isolating the rule.
+pandas>=2.0
+pdfplumber>=0.11
+scikit-learn>=1.3

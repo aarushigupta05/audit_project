@@ -1,0 +1,1640 @@
+event_type,account,date,amount,source_page
+closing_balance,Adm & Sli Expenses,31-Mar-26,11285.0,1
+opening_balance,ADVANCE TAX,1-Apr-25,1050000.0,2
+closing_balance,ADVANCE TAX,15-Mar-26,1100000.0,2
+closing_balance,Advertisement,19-Feb-26,25000.0,3
+opening_balance,AIR CONDITIONAR,1-Apr-25,19709.5,4
+closing_balance,AIR CONDITIONAR,1-Apr-25,19709.5,4
+opening_balance,AIR MACHINE,1-Apr-25,63208.0,5
+closing_balance,AIR MACHINE,1-Apr-25,63208.0,5
+closing_balance,FMCG PURCHASE,8-Apr-25,3432376.53,8
+opening_balance,P010,1-Apr-25,6491.4,10
+carried_over,P012-SALARY,31-Dec-25,270000.0,12
+brought_forward,P012-SALARY,,270000.0,13
+closing_balance,P012-SALARY,31-Mar-26,360000.0,13
+closing_balance,Audit Fee,2-Sep-25,6300.0,14
+opening_balance,AUDIT FEE PAYABLE,1-Apr-25,31500.0,15
+opening_balance,P015,1-Apr-25,152056.0,16
+carried_over,P015,9-Feb-26,1007097.0 831620.0,16
+brought_forward,P015,,1007097.0 831620.0,17
+closing_balance,P015,31-Mar-26,158974.0,17
+closing_balance,Bank Charges,31-Mar-26,23470.08,19
+closing_balance,Bank Interest,31-Mar-26,3062.0,20
+opening_balance,P020,1-Apr-25,150000.0,22
+closing_balance,P020,1-Apr-25,150000.0,22
+closing_balance,P021,31-Mar-26,240646.0,23
+closing_balance,P022,25-Mar-26,23606.0,24
+opening_balance,P023,1-Apr-25,219100.0,25
+carried_over,P023,22-Dec-25,1796133.0 1796133.0,25
+brought_forward,P023,,1796133.0 1796133.0,26
+closing_balance,P023,31-Mar-26,151169.0,26
+opening_balance,BUILDING,1-Apr-25,242642.8,27
+closing_balance,BUILDING,31-Mar-26,420258.2,27
+closing_balance,Caliberation Charges,27-Nov-25,13260.0,28
+opening_balance,P026,1-Apr-25,341860.4,29
+carried_over,P026,31-Jan-26,515187.4 500000.0,29
+brought_forward,P026,,515187.4 500000.0,30
+closing_balance,P026,31-Mar-26,66852.4,30
+opening_balance,P027,1-Apr-25,590859.64,31
+carried_over,P027,16-Jun-25,1694736.64 1278160.0,31
+brought_forward,P027,,1694736.64 1278160.0,32
+carried_over,P027,30-Sep-25,3032082.08 2339739.0,32
+brought_forward,P027,,3032082.08 2339739.0,33
+carried_over,P027,30-Dec-25,4111221.08 3809640.0,33
+brought_forward,P027,,4111221.08 3809640.0,34
+carried_over,P027,28-Feb-26,5585274.08 4993318.0,34
+brought_forward,P027,,5585274.08 4993318.0,35
+closing_balance,P027,31-Mar-26,314355.08,35
+opening_balance,Camera,1-Apr-25,100404.0,36
+closing_balance,Camera,1-Apr-25,100404.0,36
+opening_balance,CAR,1-Apr-25,424883.4,37
+closing_balance,CAR,1-Apr-25,424883.4,37
+closing_balance,Carriage Expenses Consolidated,25-Jun-25,177889.0,39
+carried_over,CARRIAGE INCOME VEHICLE,28-Feb-26,1039898.26,40
+brought_forward,CARRIAGE INCOME VEHICLE,,1039898.26,41
+closing_balance,CARRIAGE INCOME VEHICLE,31-Mar-26,1131879.45,41
+opening_balance,Carriage Income Receivable,1-Apr-25,135014.98,42
+carried_over,Carriage Income Receivable,16-Sep-25,548686.71 536489.91,42
+brought_forward,Carriage Income Receivable,,548686.71 536489.91,43
+closing_balance,Carriage Income Receivable,31-Mar-26,73613.95,43
+opening_balance,Cash,1-Apr-25,2616023.0,44
+carried_over,Cash,3-Apr-25,5550095.68 1512000.0,44
+brought_forward,Cash,,5550095.68 1512000.0,45
+carried_over,Cash,7-Apr-25,8492956.39 3851000.0,45
+brought_forward,Cash,,8492956.39 3851000.0,46
+carried_over,Cash,10-Apr-25,11761031.9 4963500.0,46
+brought_forward,Cash,,11761031.9 4963500.0,47
+carried_over,Cash,13-Apr-25,15617490.64 5948000.0,47
+brought_forward,Cash,,15617490.64 5948000.0,48
+carried_over,Cash,17-Apr-25,19084811.51 8861500.0,48
+brought_forward,Cash,,19084811.51 8861500.0,49
+carried_over,Cash,20-Apr-25,22568117.11 10072440.0,49
+brought_forward,Cash,,22568117.11 10072440.0,50
+carried_over,Cash,23-Apr-25,27976060.99 12992234.0,50
+brought_forward,Cash,,27976060.99 12992234.0,51
+carried_over,Cash,27-Apr-25,31302433.23 14607734.0,51
+brought_forward,Cash,,31302433.23 14607734.0,52
+carried_over,Cash,30-Apr-25,34482256.53 17567034.0,52
+brought_forward,Cash,,34482256.53 17567034.0,53
+carried_over,Cash,4-May-25,38814122.86 19379034.0,53
+brought_forward,Cash,,38814122.86 19379034.0,54
+carried_over,Cash,7-May-25,43461717.88 20849434.0,54
+brought_forward,Cash,,43461717.88 20849434.0,55
+carried_over,Cash,11-May-25,46821536.33 20849434.0,55
+brought_forward,Cash,,46821536.33 20849434.0,56
+carried_over,Cash,15-May-25,48760406.89 23662434.0,56
+brought_forward,Cash,,48760406.89 23662434.0,57
+carried_over,Cash,19-May-25,51205173.58 24268774.0,57
+brought_forward,Cash,,51205173.58 24268774.0,58
+carried_over,Cash,22-May-25,53589449.84 25822774.0,58
+brought_forward,Cash,,53589449.84 25822774.0,59
+carried_over,Cash,26-May-25,56462074.42 26862774.0,59
+brought_forward,Cash,,56462074.42 26862774.0,60
+carried_over,Cash,29-May-25,58680671.54 28369274.0,60
+brought_forward,Cash,,58680671.54 28369274.0,61
+carried_over,Cash,1-Jun-25,61900232.32 29408174.0,61
+brought_forward,Cash,,61900232.32 29408174.0,62
+carried_over,Cash,5-Jun-25,65529557.65 31679174.0,62
+brought_forward,Cash,,65529557.65 31679174.0,63
+carried_over,Cash,8-Jun-25,68680388.09 32780541.0,63
+brought_forward,Cash,,68680388.09 32780541.0,64
+carried_over,Cash,11-Jun-25,72081145.66 34208541.0,64
+brought_forward,Cash,,72081145.66 34208541.0,65
+carried_over,Cash,15-Jun-25,75063668.68 34626541.0,65
+brought_forward,Cash,,75063668.68 34626541.0,66
+carried_over,Cash,19-Jun-25,78420448.57 37360041.0,66
+brought_forward,Cash,,78420448.57 37360041.0,67
+carried_over,Cash,22-Jun-25,81306837.88 38232381.0,67
+brought_forward,Cash,,81306837.88 38232381.0,68
+carried_over,Cash,26-Jun-25,84678053.16 40925841.0,68
+brought_forward,Cash,,84678053.16 40925841.0,69
+carried_over,Cash,29-Jun-25,86829659.29 41292341.0,69
+brought_forward,Cash,,86829659.29 41292341.0,70
+carried_over,Cash,3-Jul-25,90487345.39 44101341.0,70
+brought_forward,Cash,,90487345.39 44101341.0,71
+carried_over,Cash,6-Jul-25,93120564.73 44634784.0,71
+brought_forward,Cash,,93120564.73 44634784.0,72
+carried_over,Cash,9-Jul-25,96852047.47 45937784.0,72
+brought_forward,Cash,,96852047.47 45937784.0,73
+carried_over,Cash,13-Jul-25,100114189.51 46884784.0,73
+brought_forward,Cash,,100114189.51 46884784.0,74
+carried_over,Cash,17-Jul-25,104221835.81 49510784.0,74
+brought_forward,Cash,,104221835.81 49510784.0,75
+carried_over,Cash,20-Jul-25,107446126.9 50442944.0,75
+brought_forward,Cash,,107446126.9 50442944.0,76
+carried_over,Cash,24-Jul-25,111066578.03 52705584.0,76
+brought_forward,Cash,,111066578.03 52705584.0,77
+carried_over,Cash,27-Jul-25,113693207.35 53188784.0,77
+brought_forward,Cash,,113693207.35 53188784.0,78
+carried_over,Cash,30-Jul-25,116213039.82 54987284.0,78
+brought_forward,Cash,,116213039.82 54987284.0,79
+carried_over,Cash,2-Aug-25,120096328.85 56048034.0,79
+brought_forward,Cash,,120096328.85 56048034.0,80
+carried_over,Cash,6-Aug-25,123482452.84 58124034.0,80
+brought_forward,Cash,,123482452.84 58124034.0,81
+carried_over,Cash,9-Aug-25,126898600.39 59062634.0,81
+brought_forward,Cash,,126898600.39 59062634.0,82
+carried_over,Cash,13-Aug-25,131241196.95 61553634.0,82
+brought_forward,Cash,,131241196.95 61553634.0,83
+carried_over,Cash,16-Aug-25,134807678.06 62050634.0,83
+brought_forward,Cash,,134807678.06 62050634.0,84
+carried_over,Cash,20-Aug-25,137461950.32 64585234.0,84
+brought_forward,Cash,,137461950.32 64585234.0,85
+carried_over,Cash,23-Aug-25,141152725.45 65636234.0,85
+brought_forward,Cash,,141152725.45 65636234.0,86
+carried_over,Cash,27-Aug-25,143977028.16 67476584.0,86
+brought_forward,Cash,,143977028.16 67476584.0,87
+carried_over,Cash,30-Aug-25,146723134.27 68754544.0,87
+brought_forward,Cash,,146723134.27 68754544.0,88
+carried_over,Cash,3-Sep-25,149395475.57 70087973.9,88
+brought_forward,Cash,,149395475.57 70087973.9,89
+carried_over,Cash,6-Sep-25,152741326.72 71506973.9,89
+brought_forward,Cash,,152741326.72 71506973.9,90
+carried_over,Cash,10-Sep-25,156368716.33 73285973.9,90
+brought_forward,Cash,,156368716.33 73285973.9,91
+carried_over,Cash,13-Sep-25,159883037.87 73951398.9,91
+brought_forward,Cash,,159883037.87 73951398.9,92
+carried_over,Cash,17-Sep-25,164650410.39 76680398.9,92
+brought_forward,Cash,,164650410.39 76680398.9,93
+carried_over,Cash,20-Sep-25,168555496.54 79018398.9,93
+brought_forward,Cash,,168555496.54 79018398.9,94
+carried_over,Cash,24-Sep-25,172806697.35 80520398.9,94
+brought_forward,Cash,,172806697.35 80520398.9,95
+carried_over,Cash,27-Sep-25,176024166.25 81617438.9,95
+brought_forward,Cash,,176024166.25 81617438.9,96
+carried_over,Cash,1-Oct-25,179459842.35 84652719.9,96
+brought_forward,Cash,,179459842.35 84652719.9,97
+carried_over,Cash,4-Oct-25,183001239.86 86541119.9,97
+brought_forward,Cash,,183001239.86 86541119.9,98
+carried_over,Cash,7-Oct-25,187229654.53 88102919.9,98
+brought_forward,Cash,,187229654.53 88102919.9,99
+carried_over,Cash,11-Oct-25,190287908.94 89308789.9,99
+brought_forward,Cash,,190287908.94 89308789.9,100
+carried_over,Cash,14-Oct-25,193757942.0 91016339.9,100
+brought_forward,Cash,,193757942.0 91016339.9,101
+carried_over,Cash,17-Oct-25,197195814.29 92721339.9,101
+brought_forward,Cash,,197195814.29 92721339.9,102
+carried_over,Cash,21-Oct-25,201719594.67 94288039.9,102
+brought_forward,Cash,,201719594.67 94288039.9,103
+carried_over,Cash,24-Oct-25,204670466.99 96239789.9,103
+brought_forward,Cash,,204670466.99 96239789.9,104
+carried_over,Cash,27-Oct-25,208252667.11 97232339.9,104
+brought_forward,Cash,,208252667.11 97232339.9,105
+carried_over,Cash,30-Oct-25,211386044.81 99540839.9,105
+brought_forward,Cash,,211386044.81 99540839.9,106
+carried_over,Cash,2-Nov-25,214829222.42 100932599.9,106
+brought_forward,Cash,,214829222.42 100932599.9,107
+carried_over,Cash,6-Nov-25,219783955.68 103792999.9,107
+brought_forward,Cash,,219783955.68 103792999.9,108
+carried_over,Cash,9-Nov-25,223847285.27 104620199.9,108
+brought_forward,Cash,,223847285.27 104620199.9,109
+carried_over,Cash,12-Nov-25,227324424.2 107340999.9,109
+brought_forward,Cash,,227324424.2 107340999.9,110
+carried_over,Cash,15-Nov-25,231875800.33 109199999.9,110
+brought_forward,Cash,,231875800.33 109199999.9,111
+carried_over,Cash,19-Nov-25,235414236.18 111330999.9,111
+brought_forward,Cash,,235414236.18 111330999.9,112
+carried_over,Cash,22-Nov-25,238702603.95 112499999.9,112
+brought_forward,Cash,,238702603.95 112499999.9,113
+carried_over,Cash,25-Nov-25,242359383.22 114247699.9,113
+brought_forward,Cash,,242359383.22 114247699.9,114
+carried_over,Cash,28-Nov-25,246745336.89 115906749.9,114
+brought_forward,Cash,,246745336.89 115906749.9,115
+carried_over,Cash,2-Dec-25,250684549.48 117957310.9,115
+brought_forward,Cash,,250684549.48 117957310.9,116
+carried_over,Cash,5-Dec-25,254405715.67 119443410.9,116
+brought_forward,Cash,,254405715.67 119443410.9,117
+carried_over,Cash,8-Dec-25,257879386.04 121040660.9,117
+brought_forward,Cash,,257879386.04 121040660.9,118
+carried_over,Cash,11-Dec-25,261496324.76 122446560.9,118
+brought_forward,Cash,,261496324.76 122446560.9,119
+carried_over,Cash,14-Dec-25,264874641.36 123075160.9,119
+brought_forward,Cash,,264874641.36 123075160.9,120
+carried_over,Cash,17-Dec-25,267694746.68 124936760.9,120
+brought_forward,Cash,,267694746.68 124936760.9,121
+carried_over,Cash,21-Dec-25,270959147.87 125591760.9,121
+brought_forward,Cash,,270959147.87 125591760.9,122
+carried_over,Cash,24-Dec-25,273692545.24 126663560.9,122
+brought_forward,Cash,,273692545.24 126663560.9,123
+carried_over,Cash,28-Dec-25,277524211.49 127401210.9,123
+brought_forward,Cash,,277524211.49 127401210.9,124
+carried_over,Cash,31-Dec-25,280061667.87 129721250.9,124
+brought_forward,Cash,,280061667.87 129721250.9,125
+carried_over,Cash,3-Jan-26,283052672.82 130714750.9,125
+brought_forward,Cash,,283052672.82 130714750.9,126
+carried_over,Cash,6-Jan-26,286081560.89 131687600.9,126
+brought_forward,Cash,,286081560.89 131687600.9,127
+carried_over,Cash,9-Jan-26,289180031.77 133633200.9,127
+brought_forward,Cash,,289180031.77 133633200.9,128
+carried_over,Cash,12-Jan-26,292197745.48 134548500.9,128
+brought_forward,Cash,,292197745.48 134548500.9,129
+carried_over,Cash,15-Jan-26,295689804.66 136421400.9,129
+brought_forward,Cash,,295689804.66 136421400.9,130
+carried_over,Cash,19-Jan-26,298602842.39 137950000.9,130
+brought_forward,Cash,,298602842.39 137950000.9,131
+carried_over,Cash,22-Jan-26,301276322.97 138794600.9,131
+brought_forward,Cash,,301276322.97 138794600.9,132
+carried_over,Cash,25-Jan-26,303793447.97 138796200.9,132
+brought_forward,Cash,,303793447.97 138796200.9,133
+carried_over,Cash,28-Jan-26,306270138.99 140770340.9,133
+brought_forward,Cash,,306270138.99 140770340.9,134
+carried_over,Cash,31-Jan-26,309388834.35 142435803.9,134
+brought_forward,Cash,,309388834.35 142435803.9,135
+carried_over,Cash,4-Feb-26,313419555.05 143410353.9,135
+brought_forward,Cash,,313419555.05 143410353.9,136
+carried_over,Cash,7-Feb-26,316416367.21 144735353.9,136
+brought_forward,Cash,,316416367.21 144735353.9,137
+carried_over,Cash,10-Feb-26,320138428.47 146026153.9,137
+brought_forward,Cash,,320138428.47 146026153.9,138
+carried_over,Cash,13-Feb-26,323920669.02 147254753.9,138
+brought_forward,Cash,,323920669.02 147254753.9,139
+carried_over,Cash,16-Feb-26,328596448.42 148249953.9,139
+brought_forward,Cash,,328596448.42 148249953.9,140
+carried_over,Cash,20-Feb-26,330739785.02 150432653.9,140
+brought_forward,Cash,,330739785.02 150432653.9,141
+carried_over,Cash,23-Feb-26,333815408.47 151846853.9,141
+brought_forward,Cash,,333815408.47 151846853.9,142
+carried_over,Cash,26-Feb-26,336765977.35 153128353.9,142
+brought_forward,Cash,,336765977.35 153128353.9,143
+carried_over,Cash,1-Mar-26,339574748.76 153662553.9,143
+brought_forward,Cash,,339574748.76 153662553.9,144
+carried_over,Cash,4-Mar-26,344108688.42 155122453.9,144
+brought_forward,Cash,,344108688.42 155122453.9,145
+carried_over,Cash,8-Mar-26,347608118.0 157128453.9,145
+brought_forward,Cash,,347608118.0 157128453.9,146
+carried_over,Cash,11-Mar-26,350911110.04 159205853.9,146
+brought_forward,Cash,,350911110.04 159205853.9,147
+carried_over,Cash,14-Mar-26,355506042.41 159534853.9,147
+brought_forward,Cash,,355506042.41 159534853.9,148
+carried_over,Cash,18-Mar-26,358383140.2 162113453.9,148
+brought_forward,Cash,,358383140.2 162113453.9,149
+carried_over,Cash,21-Mar-26,362417535.29 162886403.9,149
+brought_forward,Cash,,362417535.29 162886403.9,150
+carried_over,Cash,25-Mar-26,365587486.39 165168003.9,150
+brought_forward,Cash,,365587486.39 165168003.9,151
+carried_over,Cash,28-Mar-26,369952528.89 166768093.9,151
+brought_forward,Cash,,369952528.89 166768093.9,152
+carried_over,Cash,31-Mar-26,372898020.7 168030688.9,152
+brought_forward,Cash,,372898020.7 168030688.9,153
+closing_balance,Cash,31-Mar-26,2457738.52,153
+carried_over,CGST,5-Apr-25,1574.21,154
+brought_forward,CGST,,1574.21,155
+carried_over,CGST,10-Apr-25,2624.82,155
+brought_forward,CGST,,2624.82,156
+carried_over,CGST,15-Apr-25,3634.09,156
+brought_forward,CGST,,3634.09,157
+carried_over,CGST,19-Apr-25,5625.74,157
+brought_forward,CGST,,5625.74,158
+carried_over,CGST,24-Apr-25,7083.35,158
+brought_forward,CGST,,7083.35,159
+carried_over,CGST,29-Apr-25,8509.05,159
+brought_forward,CGST,,8509.05,160
+carried_over,CGST,3-May-25,9446.71 10039.25,160
+brought_forward,CGST,,9446.71 10039.25,161
+carried_over,CGST,8-May-25,9446.71 11157.54,161
+brought_forward,CGST,,9446.71 11157.54,162
+carried_over,CGST,13-May-25,9446.71 11952.59,162
+brought_forward,CGST,,9446.71 11952.59,163
+carried_over,CGST,17-May-25,9446.71 13753.47,163
+brought_forward,CGST,,9446.71 13753.47,164
+carried_over,CGST,23-May-25,9446.71 15614.52,164
+brought_forward,CGST,,9446.71 15614.52,165
+carried_over,CGST,28-May-25,9446.71 17709.15,165
+brought_forward,CGST,,9446.71 17709.15,166
+carried_over,CGST,31-May-25,9446.71 19056.14,166
+brought_forward,CGST,,9446.71 19056.14,167
+carried_over,CGST,3-Jun-25,19597.65 20569.65,167
+brought_forward,CGST,,19597.65 20569.65,168
+carried_over,CGST,8-Jun-25,19597.65 22263.44,168
+brought_forward,CGST,,19597.65 22263.44,169
+carried_over,CGST,13-Jun-25,19597.65 30470.74,169
+brought_forward,CGST,,19597.65 30470.74,170
+carried_over,CGST,18-Jun-25,19597.65 31454.96,170
+brought_forward,CGST,,19597.65 31454.96,171
+carried_over,CGST,23-Jun-25,19597.65 32682.49,171
+brought_forward,CGST,,19597.65 32682.49,172
+carried_over,CGST,28-Jun-25,19597.65 33955.26,172
+brought_forward,CGST,,19597.65 33955.26,173
+carried_over,CGST,2-Jul-25,34635.27 35265.06,173
+brought_forward,CGST,,34635.27 35265.06,174
+carried_over,CGST,7-Jul-25,34635.27 36797.28,174
+brought_forward,CGST,,34635.27 36797.28,175
+carried_over,CGST,12-Jul-25,34635.27 38066.32,175
+brought_forward,CGST,,34635.27 38066.32,176
+carried_over,CGST,17-Jul-25,34635.27 39598.57,176
+brought_forward,CGST,,34635.27 39598.57,177
+carried_over,CGST,22-Jul-25,34635.27 40846.54,177
+brought_forward,CGST,,34635.27 40846.54,178
+carried_over,CGST,27-Jul-25,34635.27 41625.28,178
+brought_forward,CGST,,34635.27 41625.28,179
+carried_over,CGST,31-Jul-25,34635.27 42859.92,179
+brought_forward,CGST,,34635.27 42859.92,180
+carried_over,CGST,3-Aug-25,43523.47 44354.46,180
+brought_forward,CGST,,43523.47 44354.46,181
+carried_over,CGST,8-Aug-25,43523.47 45589.43,181
+brought_forward,CGST,,43523.47 45589.43,182
+carried_over,CGST,13-Aug-25,43523.47 46735.4,182
+brought_forward,CGST,,43523.47 46735.4,183
+carried_over,CGST,18-Aug-25,43523.47 47831.77,183
+brought_forward,CGST,,43523.47 47831.77,184
+carried_over,CGST,23-Aug-25,43523.47 49375.31,184
+brought_forward,CGST,,43523.47 49375.31,185
+carried_over,CGST,28-Aug-25,43523.47 50078.68,185
+brought_forward,CGST,,43523.47 50078.68,186
+carried_over,CGST,31-Aug-25,43523.47 51401.65,186
+brought_forward,CGST,,43523.47 51401.65,187
+carried_over,CGST,3-Sep-25,51943.17 52541.16,187
+brought_forward,CGST,,51943.17 52541.16,188
+carried_over,CGST,8-Sep-25,51943.17 53895.9,188
+brought_forward,CGST,,51943.17 53895.9,189
+carried_over,CGST,13-Sep-25,51943.17 56024.51,189
+brought_forward,CGST,,51943.17 56024.51,190
+carried_over,CGST,18-Sep-25,51943.17 57859.01,190
+brought_forward,CGST,,51943.17 57859.01,191
+carried_over,CGST,23-Sep-25,51943.17 59153.58,191
+brought_forward,CGST,,51943.17 59153.58,192
+carried_over,CGST,28-Sep-25,51943.17 60350.24,192
+brought_forward,CGST,,51943.17 60350.24,193
+carried_over,CGST,1-Oct-25,61331.73 61640.39,193
+brought_forward,CGST,,61331.73 61640.39,194
+carried_over,CGST,6-Oct-25,61331.73 63382.75,194
+brought_forward,CGST,,61331.73 63382.75,195
+carried_over,CGST,11-Oct-25,61331.73 64930.08,195
+brought_forward,CGST,,61331.73 64930.08,196
+carried_over,CGST,16-Oct-25,61331.73 65927.41,196
+brought_forward,CGST,,61331.73 65927.41,197
+carried_over,CGST,21-Oct-25,61331.73 67254.1,197
+brought_forward,CGST,,61331.73 67254.1,198
+carried_over,CGST,26-Oct-25,61331.73 68358.02,198
+brought_forward,CGST,,61331.73 68358.02,199
+carried_over,CGST,31-Oct-25,61331.73 70056.08,199
+brought_forward,CGST,,61331.73 70056.08,200
+carried_over,CGST,4-Nov-25,70809.63 71755.8,200
+brought_forward,CGST,,70809.63 71755.8,201
+carried_over,CGST,9-Nov-25,70809.63 72898.43,201
+brought_forward,CGST,,70809.63 72898.43,202
+carried_over,CGST,14-Nov-25,70809.63 74461.47,202
+brought_forward,CGST,,70809.63 74461.47,203
+carried_over,CGST,19-Nov-25,70809.63 75796.42,203
+brought_forward,CGST,,70809.63 75796.42,204
+carried_over,CGST,24-Nov-25,70809.63 76837.65,204
+brought_forward,CGST,,70809.63 76837.65,205
+carried_over,CGST,29-Nov-25,70809.63 78334.9,205
+brought_forward,CGST,,70809.63 78334.9,206
+carried_over,CGST,2-Dec-25,79257.67 79730.01,206
+brought_forward,CGST,,79257.67 79730.01,207
+carried_over,CGST,7-Dec-25,79257.67 81186.59,207
+brought_forward,CGST,,79257.67 81186.59,208
+carried_over,CGST,12-Dec-25,79257.67 82746.49,208
+brought_forward,CGST,,79257.67 82746.49,209
+carried_over,CGST,16-Dec-25,79257.67 84419.09,209
+brought_forward,CGST,,79257.67 84419.09,210
+carried_over,CGST,22-Dec-25,79257.67 85996.88,210
+brought_forward,CGST,,79257.67 85996.88,211
+carried_over,CGST,27-Dec-25,79257.67 87079.28,211
+brought_forward,CGST,,79257.67 87079.28,212
+carried_over,CGST,31-Dec-25,79257.67 88905.06,212
+brought_forward,CGST,,79257.67 88905.06,213
+carried_over,CGST,4-Jan-26,89477.08 90559.78,213
+brought_forward,CGST,,89477.08 90559.78,214
+carried_over,CGST,9-Jan-26,89477.08 92292.93,214
+brought_forward,CGST,,89477.08 92292.93,215
+carried_over,CGST,14-Jan-26,89477.08 93547.77,215
+brought_forward,CGST,,89477.08 93547.77,216
+carried_over,CGST,18-Jan-26,89477.08 95257.19,216
+brought_forward,CGST,,89477.08 95257.19,217
+carried_over,CGST,23-Jan-26,89477.08 96591.42,217
+brought_forward,CGST,,89477.08 96591.42,218
+carried_over,CGST,28-Jan-26,89477.08 97947.5,218
+brought_forward,CGST,,89477.08 97947.5,219
+carried_over,CGST,31-Jan-26,89477.08 99958.48,219
+brought_forward,CGST,,89477.08 99958.48,220
+carried_over,CGST,5-Feb-26,99958.48 101127.13,220
+brought_forward,CGST,,99958.48 101127.13,221
+carried_over,CGST,10-Feb-26,99958.48 102934.1,221
+brought_forward,CGST,,99958.48 102934.1,222
+carried_over,CGST,15-Feb-26,99958.48 104075.94,222
+brought_forward,CGST,,99958.48 104075.94,223
+carried_over,CGST,19-Feb-26,99958.48 105533.86,223
+brought_forward,CGST,,99958.48 105533.86,224
+carried_over,CGST,24-Feb-26,99958.48 106887.9,224
+brought_forward,CGST,,99958.48 106887.9,225
+carried_over,CGST,28-Feb-26,99958.48 107808.71,225
+brought_forward,CGST,,99958.48 107808.71,226
+carried_over,CGST,4-Mar-26,108304.46 109319.8,226
+brought_forward,CGST,,108304.46 109319.8,227
+carried_over,CGST,9-Mar-26,108304.46 110728.91,227
+brought_forward,CGST,,108304.46 110728.91,228
+carried_over,CGST,14-Mar-26,108304.46 111750.6,228
+brought_forward,CGST,,108304.46 111750.6,229
+carried_over,CGST,19-Mar-26,108304.46 112446.0,229
+brought_forward,CGST,,108304.46 112446.0,230
+carried_over,CGST,24-Mar-26,108304.46 113720.43,230
+brought_forward,CGST,,108304.46 113720.43,231
+carried_over,CGST,29-Mar-26,108304.46 114826.13,231
+brought_forward,CGST,,108304.46 114826.13,232
+closing_balance,CGST to Be Claimed,25-Feb-26,1144.07,233
+opening_balance,P037,1-Apr-25,666232.0,234
+carried_over,P037,14-Jan-26,3340488.0 2950000.0,234
+brought_forward,P037,,3340488.0 2950000.0,235
+closing_balance,P037,31-Mar-26,651139.0,235
+opening_balance,Coffee Machine,1-Apr-25,2852.0,236
+closing_balance,Coffee Machine,1-Apr-25,2852.0,236
+closing_balance,Commision on Sale,31-Mar-26,514013.9,237
+opening_balance,COMPUTER,1-Apr-25,32185.0,238
+closing_balance,COMPUTER,21-Apr-25,37335.0,238
+opening_balance,CUSTOMER A/C,1-Apr-25,90864.64,239
+carried_over,CUSTOMER A/C,6-Apr-25,57732.19 148498.04,239
+brought_forward,CUSTOMER A/C,,57732.19 148498.04,240
+carried_over,CUSTOMER A/C,15-Apr-25,190494.35 269994.42,240
+brought_forward,CUSTOMER A/C,,190494.35 269994.42,241
+carried_over,CUSTOMER A/C,24-Apr-25,268539.8 349375.42,241
+brought_forward,CUSTOMER A/C,,268539.8 349375.42,242
+carried_over,CUSTOMER A/C,2-May-25,317289.82 403264.54,242
+brought_forward,CUSTOMER A/C,,317289.82 403264.54,243
+carried_over,CUSTOMER A/C,14-May-25,431268.82 522939.99,243
+brought_forward,CUSTOMER A/C,,431268.82 522939.99,244
+carried_over,CUSTOMER A/C,19-May-25,504720.82 634040.24,244
+brought_forward,CUSTOMER A/C,,504720.82 634040.24,245
+carried_over,CUSTOMER A/C,23-May-25,722584.82 1192186.24,245
+brought_forward,CUSTOMER A/C,,722584.82 1192186.24,246
+carried_over,CUSTOMER A/C,29-May-25,1238534.82 1335886.31,246
+brought_forward,CUSTOMER A/C,,1238534.82 1335886.31,247
+carried_over,CUSTOMER A/C,6-Jun-25,1343829.82 1434967.79,247
+brought_forward,CUSTOMER A/C,,1343829.82 1434967.79,248
+carried_over,CUSTOMER A/C,15-Jun-25,1420903.64 1503896.47,248
+brought_forward,CUSTOMER A/C,,1420903.64 1503896.47,249
+carried_over,CUSTOMER A/C,21-Jun-25,1517400.17 1613648.0,249
+brought_forward,CUSTOMER A/C,,1517400.17 1613648.0,250
+carried_over,CUSTOMER A/C,27-Jun-25,1550142.17 1639620.0,250
+brought_forward,CUSTOMER A/C,,1550142.17 1639620.0,251
+carried_over,CUSTOMER A/C,7-Jul-25,1659558.32 1744658.78,251
+brought_forward,CUSTOMER A/C,,1659558.32 1744658.78,252
+carried_over,CUSTOMER A/C,13-Jul-25,1801266.94 1912889.93,252
+brought_forward,CUSTOMER A/C,,1801266.94 1912889.93,253
+carried_over,CUSTOMER A/C,22-Jul-25,1951807.78 2048875.9,253
+brought_forward,CUSTOMER A/C,,1951807.78 2048875.9,254
+carried_over,CUSTOMER A/C,31-Jul-25,2139303.27 2235423.98,254
+brought_forward,CUSTOMER A/C,,2139303.27 2235423.98,255
+carried_over,CUSTOMER A/C,8-Aug-25,2352742.56 2466369.13,255
+brought_forward,CUSTOMER A/C,,2352742.56 2466369.13,256
+carried_over,CUSTOMER A/C,16-Aug-25,2524689.75 2635656.13,256
+brought_forward,CUSTOMER A/C,,2524689.75 2635656.13,257
+carried_over,CUSTOMER A/C,24-Aug-25,2608753.75 2727080.28,257
+brought_forward,CUSTOMER A/C,,2608753.75 2727080.28,258
+carried_over,CUSTOMER A/C,3-Sep-25,2666609.75 2767106.28,258
+brought_forward,CUSTOMER A/C,,2666609.75 2767106.28,259
+carried_over,CUSTOMER A/C,9-Sep-25,2792211.33 2921241.86,259
+brought_forward,CUSTOMER A/C,,2792211.33 2921241.86,260
+carried_over,CUSTOMER A/C,17-Sep-25,2983065.79 3103476.82,260
+brought_forward,CUSTOMER A/C,,2983065.79 3103476.82,261
+carried_over,CUSTOMER A/C,24-Sep-25,3117893.36 3243793.75,261
+brought_forward,CUSTOMER A/C,,3117893.36 3243793.75,262
+carried_over,CUSTOMER A/C,3-Oct-25,3232327.74 3359559.71,262
+brought_forward,CUSTOMER A/C,,3232327.74 3359559.71,263
+carried_over,CUSTOMER A/C,11-Oct-25,3451897.74 3580543.71,263
+brought_forward,CUSTOMER A/C,,3451897.74 3580543.71,264
+carried_over,CUSTOMER A/C,21-Oct-25,3535268.24 3660664.21,264
+brought_forward,CUSTOMER A/C,,3535268.24 3660664.21,265
+carried_over,CUSTOMER A/C,29-Oct-25,3679182.24 3800228.21,265
+brought_forward,CUSTOMER A/C,,3679182.24 3800228.21,266
+carried_over,CUSTOMER A/C,8-Nov-25,3752661.73 3869936.94,266
+brought_forward,CUSTOMER A/C,,3752661.73 3869936.94,267
+carried_over,CUSTOMER A/C,16-Nov-25,3889853.44 3987306.94,267
+brought_forward,CUSTOMER A/C,,3889853.44 3987306.94,268
+carried_over,CUSTOMER A/C,25-Nov-25,4119921.33 4116710.94,268
+brought_forward,CUSTOMER A/C,,4119921.33 4116710.94,269
+carried_over,CUSTOMER A/C,4-Dec-25,4305128.28 4306106.69,269
+brought_forward,CUSTOMER A/C,,4305128.28 4306106.69,270
+carried_over,CUSTOMER A/C,13-Dec-25,4501566.62 4503079.69,270
+brought_forward,CUSTOMER A/C,,4501566.62 4503079.69,271
+carried_over,CUSTOMER A/C,19-Dec-25,4597519.91 4587428.46,271
+brought_forward,CUSTOMER A/C,,4597519.91 4587428.46,272
+carried_over,CUSTOMER A/C,28-Dec-25,4681082.84 4687941.12,272
+brought_forward,CUSTOMER A/C,,4681082.84 4687941.12,273
+carried_over,CUSTOMER A/C,7-Jan-26,4879292.84 4881470.83,273
+brought_forward,CUSTOMER A/C,,4879292.84 4881470.83,274
+carried_over,CUSTOMER A/C,14-Jan-26,5010389.59 5006046.58,274
+brought_forward,CUSTOMER A/C,,5010389.59 5006046.58,275
+carried_over,CUSTOMER A/C,23-Jan-26,5230180.45 5231987.42,275
+brought_forward,CUSTOMER A/C,,5230180.45 5231987.42,276
+carried_over,CUSTOMER A/C,2-Feb-26,5323634.6 5330492.65,276
+brought_forward,CUSTOMER A/C,,5323634.6 5330492.65,277
+carried_over,CUSTOMER A/C,12-Feb-26,5497020.6 5503879.16,277
+brought_forward,CUSTOMER A/C,,5497020.6 5503879.16,278
+carried_over,CUSTOMER A/C,20-Feb-26,6117635.3 6124493.9,278
+brought_forward,CUSTOMER A/C,,6117635.3 6124493.9,279
+carried_over,CUSTOMER A/C,2-Mar-26,6240111.21 6229328.4,279
+brought_forward,CUSTOMER A/C,,6240111.21 6229328.4,280
+carried_over,CUSTOMER A/C,11-Mar-26,6428138.87 6421234.36,280
+brought_forward,CUSTOMER A/C,,6428138.87 6421234.36,281
+carried_over,CUSTOMER A/C,19-Mar-26,6512912.92 6515802.87,281
+brought_forward,CUSTOMER A/C,,6512912.92 6515802.87,282
+carried_over,CUSTOMER A/C,28-Mar-26,6562991.88 6567761.72,282
+brought_forward,CUSTOMER A/C,,6562991.88 6567761.72,283
+closing_balance,CUSTOMER A/C,31-Mar-26,221560.62,283
+closing_balance,P042,28-Feb-26,133328.0,284
+carried_over,Dealer Margin,31-Jan-26,1577614.47,285
+brought_forward,Dealer Margin,,1577614.47,286
+closing_balance,Dealer Margin,31-Mar-26,1896026.51,286
+carried_over,P044-SALARY,31-Dec-25,225000.0,287
+brought_forward,P044-SALARY,,225000.0,288
+closing_balance,P044-SALARY,31-Mar-26,300000.0,288
+opening_balance,P045,1-Apr-25,134478.48,289
+carried_over,P045,31-May-25,1116776.48 816904.0,289
+brought_forward,P045,,1116776.48 816904.0,290
+carried_over,P045,31-Aug-25,2248317.48 2084730.0,290
+brought_forward,P045,,2248317.48 2084730.0,291
+carried_over,P045,30-Nov-25,3659095.48 3488506.0,291
+brought_forward,P045,,3659095.48 3488506.0,292
+carried_over,P045,15-Feb-26,5065640.48 4407809.0,292
+brought_forward,P045,,5065640.48 4407809.0,293
+closing_balance,P045,31-Mar-26,113784.0,293
+closing_balance,Depreciation,31-Mar-26,662901.0,294
+opening_balance,DG Set,1-Apr-25,275243.0,295
+closing_balance,DG Set,1-Apr-25,275243.0,295
+closing_balance,DISCOUNT,27-Aug-25,2000.0,296
+opening_balance,P049,1-Apr-25,50650.48,297
+carried_over,P049,15-Dec-25,623930.48 623913.0,297
+brought_forward,P049,,623930.48 623913.0,298
+closing_balance,P049,31-Mar-26,32960.48,298
+closing_balance,P051,11-Mar-26,41050.0,300
+opening_balance,ELECTRICITY BILL PAYABLE,1-Apr-25,8975.0,301
+closing_balance,ELECTRICITY BILL PAYABLE,31-Mar-26,20000.0,301
+closing_balance,ELECTRICITY EXPENSES,31-Mar-26,140000.0,302
+carried_over,Employee PF Share,28-Feb-26,116520.0,303
+brought_forward,Employee PF Share,,116520.0,304
+closing_balance,Employee PF Share,31-Mar-26,126840.0,304
+carried_over,Employer PF Share,28-Feb-26,116520.0,305
+brought_forward,Employer PF Share,,116520.0,306
+closing_balance,Employer PF Share,31-Mar-26,126840.0,306
+opening_balance,Engine Oil Changing Machne,1-Apr-25,14056.0,307
+closing_balance,Engine Oil Changing Machne,1-Apr-25,14056.0,307
+carried_over,ESIC Employee Share,28-Feb-26,5661.0,308
+brought_forward,ESIC Employee Share,,5661.0,309
+closing_balance,ESIC Employee Share,31-Mar-26,6201.0,309
+carried_over,ESIC Employer Share,28-Feb-26,24473.0,310
+brought_forward,ESIC Employer Share,,24473.0,311
+closing_balance,ESIC Employer Share,31-Mar-26,26813.0,311
+opening_balance,ESIC Payable,1-Apr-25,2203.0,312
+carried_over,ESIC Payable,15-Dec-25,23697.0 23697.0,312
+brought_forward,ESIC Payable,,23697.0 23697.0,313
+closing_balance,ESIC Payable,31-Mar-26,2880.0,313
+closing_balance,Festival Expenses,28-Oct-25,68750.0,314
+opening_balance,FIRE EXTINGUISHERS,1-Apr-25,4710.0,315
+closing_balance,FIRE EXTINGUISHERS,9-Sep-25,24410.0,315
+opening_balance,Fridge,1-Apr-25,19838.0,316
+closing_balance,Fridge,17-Apr-25,29338.0,316
+opening_balance,Furniture & Fixture,1-Apr-25,10250.0,317
+closing_balance,Furniture & Fixture,1-Apr-25,10250.0,317
+closing_balance,Gst Late Fee,16-Jan-26,1850.0,319
+opening_balance,Gst Payable,1-Apr-25,5616.0,320
+carried_over,Gst Payable,23-Oct-25,50398.0 50398.17,320
+brought_forward,Gst Payable,,50398.0 50398.17,321
+closing_balance,Gst Payable,31-Mar-26,8146.0,321
+opening_balance,P069,1-Apr-25,2932162.41,324
+carried_over,P069,8-Apr-25,10291229.35 9053642.55,324
+brought_forward,P069,,10291229.35 9053642.55,325
+carried_over,P069,24-Apr-25,31635446.76 30799545.49,325
+brought_forward,P069,,31635446.76 30799545.49,326
+carried_over,P069,10-May-25,48589264.76 48600977.07,326
+brought_forward,P069,,48589264.76 48600977.07,327
+carried_over,P069,21-May-25,61541394.44 60782946.0,327
+brought_forward,P069,,61541394.44 60782946.0,328
+carried_over,P069,31-May-25,75711805.87 74594523.59,328
+brought_forward,P069,,75711805.87 74594523.59,329
+carried_over,P069,15-Jun-25,88840588.26 90411663.5,329
+brought_forward,P069,,88840588.26 90411663.5,330
+carried_over,P069,28-Jun-25,103654850.79 103929954.44,330
+brought_forward,P069,,103654850.79 103929954.44,331
+carried_over,P069,7-Jul-25,111984072.18 115193936.12,331
+brought_forward,P069,,111984072.18 115193936.12,332
+carried_over,P069,20-Jul-25,130883098.68 130014262.1,332
+brought_forward,P069,,130883098.68 130014262.1,333
+carried_over,P069,4-Aug-25,149188115.51 147226185.31,333
+brought_forward,P069,,149188115.51 147226185.31,334
+carried_over,P069,19-Aug-25,168277748.6 164356474.1,334
+brought_forward,P069,,168277748.6 164356474.1,335
+carried_over,P069,31-Aug-25,180204732.71 179273469.5,335
+brought_forward,P069,,180204732.71 179273469.5,336
+carried_over,P069,15-Sep-25,198350002.77 195048215.87,336
+brought_forward,P069,,198350002.77 195048215.87,337
+carried_over,P069,26-Sep-25,211636196.55 210856653.85,337
+brought_forward,P069,,211636196.55 210856653.85,338
+carried_over,P069,10-Oct-25,232863516.97 228144348.54,338
+brought_forward,P069,,232863516.97 228144348.54,339
+carried_over,P069,24-Oct-25,249759979.47 246561568.54,339
+brought_forward,P069,,249759979.47 246561568.54,340
+carried_over,P069,6-Nov-25,266159393.51 262754418.72,340
+brought_forward,P069,,266159393.51 262754418.72,341
+carried_over,P069,19-Nov-25,284456973.51 282335922.84,341
+brought_forward,P069,,284456973.51 282335922.84,342
+carried_over,P069,30-Nov-25,298714332.65 300686011.52,342
+brought_forward,P069,,298714332.65 300686011.52,343
+carried_over,P069,10-Dec-25,313694330.29 311821597.83,343
+brought_forward,P069,,313694330.29 311821597.83,344
+carried_over,P069,20-Dec-25,326655280.06 326544084.57,344
+brought_forward,P069,,326655280.06 326544084.57,345
+carried_over,P069,31-Dec-25,338507338.52 340194959.23,345
+brought_forward,P069,,338507338.52 340194959.23,346
+carried_over,P069,10-Jan-26,349658983.36 351342329.42,346
+brought_forward,P069,,349658983.36 351342329.42,347
+carried_over,P069,23-Jan-26,368005889.2 365953218.49,347
+brought_forward,P069,,368005889.2 365953218.49,348
+carried_over,P069,5-Feb-26,381611959.33 381992115.6,348
+brought_forward,P069,,381611959.33 381992115.6,349
+carried_over,P069,18-Feb-26,399884604.0 399141540.43,349
+brought_forward,P069,,399884604.0 399141540.43,350
+carried_over,P069,1-Mar-26,412888343.68 413856992.86,350
+brought_forward,P069,,412888343.68 413856992.86,351
+carried_over,P069,11-Mar-26,427595193.25 427359417.24,351
+brought_forward,P069,,427595193.25 427359417.24,352
+carried_over,P069,23-Mar-26,441495215.71 440883712.71,352
+brought_forward,P069,,441495215.71 440883712.71,353
+closing_balance,P069,31-Mar-26,214296.59,353
+closing_balance,OIL SUPPLIER INTEREST,1-Mar-26,9982.58,354
+closing_balance,Incentive,16-Jan-26,51685.89,355
+opening_balance,Income Tax,1-Apr-25,1394138.0,356
+opening_balance,Input CGST,1-Apr-25,9921.6,357
+carried_over,Input CGST,31-Aug-25,38087.82 31842.65,357
+brought_forward,Input CGST,,38087.82 31842.65,358
+carried_over,Input IGST,28-Feb-26,26692.81 26692.41,359
+brought_forward,Input IGST,,26692.81 26692.41,360
+opening_balance,Input SGST,1-Apr-25,9921.6,361
+carried_over,Input SGST,31-Aug-25,38087.82 31842.65,361
+brought_forward,Input SGST,,38087.82 31842.65,362
+closing_balance,Insurance,31-Mar-26,85385.0,363
+closing_balance,Interest on GST,16-Jan-26,103.7,364
+closing_balance,Interest on TDS/TCS,17-May-25,3639.0,365
+closing_balance,Interest to Partners,31-Mar-26,1427119.0,366
+opening_balance,P081,1-Apr-25,338924.0,368
+carried_over,P081,4-Sep-25,1929360.0 1929360.0,368
+brought_forward,P081,,1929360.0 1929360.0,369
+carried_over,P081,28-Feb-26,4581558.0 4305765.0,369
+brought_forward,P081,,4581558.0 4305765.0,370
+closing_balance,P081,31-Mar-26,387249.0,370
+opening_balance,P082,1-Apr-25,92209.0,371
+carried_over,P082,30-Nov-25,708907.0 621417.0,371
+brought_forward,P082,,708907.0 621417.0,372
+closing_balance,P082,31-Mar-26,109315.0,372
+closing_balance,BANK C,31-Mar-26,3333.8,373
+opening_balance,P084,1-Apr-25,356551.56,374
+carried_over,P084,13-Jan-26,1707164.56 1707164.0,374
+brought_forward,P084,,1707164.56 1707164.0,375
+closing_balance,P084,31-Mar-26,327847.56,375
+opening_balance,P085,1-Apr-25,799804.53,376
+closing_balance,P085,27-Mar-26,574273.53,376
+opening_balance,BANK B,1-Apr-25,6911.5,378
+carried_over,BANK B,8-Dec-25,88993.5 88994.0,378
+brought_forward,BANK B,,88993.5 88994.0,379
+closing_balance,BANK B,31-Mar-26,11665.5,379
+opening_balance,BANK A,1-Apr-25,7497689.74,380
+carried_over,BANK A,5-Apr-25,14588580.66 7703020.0,380
+brought_forward,BANK A,,14588580.66 7703020.0,381
+carried_over,BANK A,11-Apr-25,22013213.7 15704322.0,381
+brought_forward,BANK A,,22013213.7 15704322.0,382
+carried_over,BANK A,21-Apr-25,33715327.58 25250270.0,382
+brought_forward,BANK A,,33715327.58 25250270.0,383
+carried_over,BANK A,29-Apr-25,45372297.35 38427953.4,383
+brought_forward,BANK A,,45372297.35 38427953.4,384
+carried_over,BANK A,6-May-25,54777621.97 47627953.4,384
+brought_forward,BANK A,,54777621.97 47627953.4,385
+carried_over,BANK A,14-May-25,61034427.3 58968859.4,385
+brought_forward,BANK A,,61034427.3 58968859.4,386
+carried_over,BANK A,17-May-25,63434276.04 59051426.4,386
+brought_forward,BANK A,,63434276.04 59051426.4,387
+carried_over,BANK A,23-May-25,71802255.73 66051426.4,387
+brought_forward,BANK A,,71802255.73 66051426.4,388
+carried_over,BANK A,2-Jun-25,81198663.3 76552610.9,388
+brought_forward,BANK A,,81198663.3 76552610.9,389
+carried_over,BANK A,9-Jun-25,89080321.53 82860076.13,389
+brought_forward,BANK A,,89080321.53 82860076.13,390
+carried_over,BANK A,16-Jun-25,95135536.28 90229739.13,390
+brought_forward,BANK A,,95135536.28 90229739.13,391
+carried_over,BANK A,24-Jun-25,105444016.33 100629739.13,391
+brought_forward,BANK A,,105444016.33 100629739.13,392
+carried_over,BANK A,2-Jul-25,116810774.88 111218382.13,392
+brought_forward,BANK A,,116810774.88 111218382.13,393
+carried_over,BANK A,11-Jul-25,125966487.55 123083087.0,393
+brought_forward,BANK A,,125966487.55 123083087.0,394
+carried_over,BANK A,18-Jul-25,134449880.78 129969550.0,394
+brought_forward,BANK A,,134449880.78 129969550.0,395
+carried_over,BANK A,24-Jul-25,141365164.54 137099382.0,395
+brought_forward,BANK A,,141365164.54 137099382.0,396
+carried_over,BANK A,4-Aug-25,151738389.1 147940956.55,396
+brought_forward,BANK A,,151738389.1 147940956.55,397
+carried_over,BANK A,11-Aug-25,163175525.11 159020732.55,397
+brought_forward,BANK A,,163175525.11 159020732.55,398
+carried_over,BANK A,18-Aug-25,171503718.26 166445232.55,398
+brought_forward,BANK A,,171503718.26 166445232.55,399
+carried_over,BANK A,28-Aug-25,182090261.34 172967821.55,399
+brought_forward,BANK A,,182090261.34 172967821.55,400
+carried_over,BANK A,6-Sep-25,190674647.94 182452816.77,400
+brought_forward,BANK A,,190674647.94 182452816.77,401
+carried_over,BANK A,14-Sep-25,198796184.05 193348542.77,401
+brought_forward,BANK A,,198796184.05 193348542.77,402
+carried_over,BANK A,20-Sep-25,208138586.39 201327054.77,402
+brought_forward,BANK A,,208138586.39 201327054.77,403
+carried_over,BANK A,29-Sep-25,218805398.45 211728027.77,403
+brought_forward,BANK A,,218805398.45 211728027.77,404
+carried_over,BANK A,6-Oct-25,228937478.03 224365742.63,404
+brought_forward,BANK A,,228937478.03 224365742.63,405
+carried_over,BANK A,14-Oct-25,238092764.67 229481143.63,405
+brought_forward,BANK A,,238092764.67 229481143.63,406
+carried_over,BANK A,20-Oct-25,245772686.3 238705593.63,406
+brought_forward,BANK A,,245772686.3 238705593.63,407
+carried_over,BANK A,27-Oct-25,254137575.12 250526189.63,407
+brought_forward,BANK A,,254137575.12 250526189.63,408
+carried_over,BANK A,1-Nov-25,261299524.62 258072605.49,408
+brought_forward,BANK A,,261299524.62 258072605.49,409
+carried_over,BANK A,8-Nov-25,270606294.36 265442612.49,409
+brought_forward,BANK A,,270606294.36 265442612.49,410
+carried_over,BANK A,14-Nov-25,278931501.36 276669377.49,410
+brought_forward,BANK A,,278931501.36 276669377.49,411
+carried_over,BANK A,19-Nov-25,285041256.55 284307627.49,411
+brought_forward,BANK A,,285041256.55 284307627.49,412
+carried_over,BANK A,24-Nov-25,291306358.35 288427627.49,412
+brought_forward,BANK A,,291306358.35 288427627.49,413
+carried_over,BANK A,29-Nov-25,298414695.92 295132122.49,413
+brought_forward,BANK A,,298414695.92 295132122.49,414
+carried_over,BANK A,4-Dec-25,304173502.83 302641490.99,414
+brought_forward,BANK A,,304173502.83 302641490.99,415
+carried_over,BANK A,8-Dec-25,309768196.45 308794274.99,415
+brought_forward,BANK A,,309768196.45 308794274.99,416
+carried_over,BANK A,12-Dec-25,315272144.74 314553774.99,416
+brought_forward,BANK A,,315272144.74 314553774.99,417
+carried_over,BANK A,16-Dec-25,320324949.42 319028224.99,417
+brought_forward,BANK A,,320324949.42 319028224.99,418
+carried_over,BANK A,22-Dec-25,326071264.39 324429196.99,418
+brought_forward,BANK A,,326071264.39 324429196.99,419
+carried_over,BANK A,28-Dec-25,331464804.58 329952402.99,419
+brought_forward,BANK A,,331464804.58 329952402.99,420
+carried_over,BANK A,2-Jan-26,337472196.96 335955272.06,420
+brought_forward,BANK A,,337472196.96 335955272.06,421
+carried_over,BANK A,8-Jan-26,344151395.45 342754294.06,421
+brought_forward,BANK A,,344151395.45 342754294.06,422
+carried_over,BANK A,14-Jan-26,350836636.66 349222244.06,422
+brought_forward,BANK A,,350836636.66 349222244.06,423
+carried_over,BANK A,19-Jan-26,359213470.13 353643766.06,423
+brought_forward,BANK A,,359213470.13 353643766.06,424
+carried_over,BANK A,23-Jan-26,363744443.85 361293766.06,424
+brought_forward,BANK A,,363744443.85 361293766.06,425
+carried_over,BANK A,31-Jan-26,371607419.7 366943766.06,425
+brought_forward,BANK A,,371607419.7 366943766.06,426
+carried_over,BANK A,5-Feb-26,378535947.49 375456285.56,426
+brought_forward,BANK A,,378535947.49 375456285.56,427
+carried_over,BANK A,10-Feb-26,384296602.0 382987771.56,427
+brought_forward,BANK A,,384296602.0 382987771.56,428
+carried_over,BANK A,14-Feb-26,389334931.76 387237771.56,428
+brought_forward,BANK A,,389334931.76 387237771.56,429
+carried_over,BANK A,19-Feb-26,395350897.8 393262683.56,429
+brought_forward,BANK A,,395350897.8 393262683.56,430
+carried_over,BANK A,23-Feb-26,401494884.51 397887683.56,430
+brought_forward,BANK A,,401494884.51 397887683.56,431
+carried_over,BANK A,27-Feb-26,405994550.66 404542254.56,431
+brought_forward,BANK A,,405994550.66 404542254.56,432
+carried_over,BANK A,5-Mar-26,412235367.39 412462308.46,432
+brought_forward,BANK A,,412235367.39 412462308.46,433
+carried_over,BANK A,10-Mar-26,419345685.54 418555656.46,433
+brought_forward,BANK A,,419345685.54 418555656.46,434
+carried_over,BANK A,14-Mar-26,424015503.71 422227226.46,434
+brought_forward,BANK A,,424015503.71 422227226.46,435
+carried_over,BANK A,18-Mar-26,429752613.72 428296798.46,435
+brought_forward,BANK A,,429752613.72 428296798.46,436
+carried_over,BANK A,23-Mar-26,436421823.56 433797853.46,436
+brought_forward,BANK A,,436421823.56 433797853.46,437
+carried_over,BANK A,27-Mar-26,443381363.61 439697853.46,437
+brought_forward,BANK A,,443381363.61 439697853.46,438
+closing_balance,BANK A,31-Mar-26,6308541.03,438
+opening_balance,P090,1-Apr-25,5326.6,440
+carried_over,P090,4-Jun-25,2415185.6 655000.0,440
+brought_forward,P090,,2415185.6 655000.0,441
+carried_over,P090,22-Jan-26,4432760.6 4264845.0,441
+brought_forward,P090,,4432760.6 4264845.0,442
+closing_balance,P090,31-Mar-26,0.4,442
+carried_over,P091,31-Aug-25,548185.0,443
+brought_forward,P091,,548185.0,444
+opening_balance,P092,1-Apr-25,335186.9,445
+carried_over,P092,9-Sep-25,1068073.9 987000.0,445
+brought_forward,P092,,1068073.9 987000.0,446
+carried_over,P092,1-Mar-26,2340523.9 2068000.0,446
+brought_forward,P092,,2340523.9 2068000.0,447
+closing_balance,P092,31-Mar-26,257513.9,447
+opening_balance,P094,1-Apr-25,18239559.48,449
+closing_balance,P094,31-Mar-26,16085448.49,449
+opening_balance,P096,1-Apr-25,121899.0,451
+closing_balance,P096,31-Mar-26,60949.0,451
+carried_over,Misc Expenses,31-Jul-25,13359.37,452
+brought_forward,Misc Expenses,,13359.37,453
+carried_over,Misc Expenses,1-Jan-26,21180.7 103.51,453
+brought_forward,Misc Expenses,,21180.7 103.51,454
+closing_balance,Misc Expenses,31-Mar-26,25095.29,454
+closing_balance,Mobile Phone,30-Jan-26,14150.0,455
+carried_over,P100,11-Dec-25,882346.69 877792.5,457
+brought_forward,P100,,882346.69 877792.5,458
+closing_balance,P100,31-Mar-26,106935.19,458
+opening_balance,P101,1-Apr-25,18279.31,459
+carried_over,P101,26-Dec-25,710402.31 710401.0,459
+brought_forward,P101,,710402.31 710401.0,460
+closing_balance,P101,31-Mar-26,63463.31,460
+opening_balance,P102,1-Apr-25,302748.08,461
+carried_over,P102,22-Dec-25,2898112.08 2898113.0,461
+brought_forward,P102,,2898112.08 2898113.0,462
+closing_balance,P102,31-Mar-26,238570.08,462
+closing_balance,News Paper,27-Mar-26,4120.0,463
+opening_balance,P104,1-Apr-25,149182.0,464
+closing_balance,P104,1-Apr-25,149182.0,464
+opening_balance,P105,1-Apr-25,717471.86,465
+closing_balance,P105,1-Apr-25,717471.86,465
+opening_balance,Nitrogen Machine,1-Apr-25,46962.0,466
+closing_balance,Nitrogen Machine,1-Apr-25,46962.0,466
+closing_balance,Office Expenses,28-Mar-26,11920.0,467
+closing_balance,Office Maintenance,23-Feb-26,76135.0,468
+carried_over,Paytm Sale,2-May-25,17465909.63,470
+brought_forward,Paytm Sale,,17465909.63,471
+carried_over,Paytm Sale,9-Jun-25,34926866.02,471
+brought_forward,Paytm Sale,,34926866.02,472
+carried_over,Paytm Sale,17-Jul-25,54046028.51,472
+brought_forward,Paytm Sale,,54046028.51,473
+carried_over,Paytm Sale,22-Aug-25,73127644.67,473
+brought_forward,Paytm Sale,,73127644.67,474
+carried_over,Paytm Sale,1-Oct-25,94843627.28,474
+brought_forward,Paytm Sale,,94843627.28,475
+carried_over,Paytm Sale,26-Oct-25,109674979.48,475
+brought_forward,Paytm Sale,,109674979.48,476
+carried_over,Paytm Sale,16-Nov-25,122341549.68,476
+brought_forward,Paytm Sale,,122341549.68,477
+carried_over,Paytm Sale,7-Dec-25,135842123.8,477
+brought_forward,Paytm Sale,,135842123.8,478
+carried_over,Paytm Sale,25-Dec-25,146243702.38,478
+brought_forward,Paytm Sale,,146243702.38,479
+carried_over,Paytm Sale,15-Jan-26,157567451.6,479
+brought_forward,Paytm Sale,,157567451.6,480
+carried_over,Paytm Sale,2-Feb-26,167294602.12,480
+brought_forward,Paytm Sale,,167294602.12,481
+carried_over,Paytm Sale,21-Feb-26,179807665.16,481
+brought_forward,Paytm Sale,,179807665.16,482
+carried_over,Paytm Sale,12-Mar-26,191277681.93,482
+brought_forward,Paytm Sale,,191277681.93,483
+carried_over,Pollution Checking Charges,9-Apr-25,12083.72,485
+brought_forward,Pollution Checking Charges,,12083.72,486
+carried_over,Pollution Checking Charges,19-Apr-25,22236.22,486
+brought_forward,Pollution Checking Charges,,22236.22,487
+carried_over,Pollution Checking Charges,29-Apr-25,32863.3,487
+brought_forward,Pollution Checking Charges,,32863.3,488
+carried_over,Pollution Checking Charges,9-May-25,44795.46,488
+brought_forward,Pollution Checking Charges,,44795.46,489
+carried_over,Pollution Checking Charges,20-May-25,55685.24,489
+brought_forward,Pollution Checking Charges,,55685.24,490
+carried_over,Pollution Checking Charges,30-May-25,66719.09,490
+brought_forward,Pollution Checking Charges,,66719.09,491
+carried_over,Pollution Checking Charges,9-Jun-25,79625.83,491
+brought_forward,Pollution Checking Charges,,79625.83,492
+carried_over,Pollution Checking Charges,20-Jun-25,92371.56,492
+brought_forward,Pollution Checking Charges,,92371.56,493
+carried_over,Pollution Checking Charges,30-Jun-25,104388.47,493
+brought_forward,Pollution Checking Charges,,104388.47,494
+carried_over,Pollution Checking Charges,10-Jul-25,118930.8,494
+brought_forward,Pollution Checking Charges,,118930.8,495
+carried_over,Pollution Checking Charges,20-Jul-25,131134.15,495
+brought_forward,Pollution Checking Charges,,131134.15,496
+carried_over,Pollution Checking Charges,30-Jul-25,141439.18,496
+brought_forward,Pollution Checking Charges,,141439.18,497
+carried_over,Pollution Checking Charges,9-Aug-25,157320.48,497
+brought_forward,Pollution Checking Charges,,157320.48,498
+carried_over,Pollution Checking Charges,19-Aug-25,170125.51,498
+brought_forward,Pollution Checking Charges,,170125.51,499
+carried_over,Pollution Checking Charges,29-Aug-25,180735.63,499
+brought_forward,Pollution Checking Charges,,180735.63,500
+carried_over,Pollution Checking Charges,8-Sep-25,189506.76,500
+brought_forward,Pollution Checking Charges,,189506.76,501
+carried_over,Pollution Checking Charges,18-Sep-25,200625.36,501
+brought_forward,Pollution Checking Charges,,200625.36,502
+carried_over,Pollution Checking Charges,28-Sep-25,210006.66,502
+brought_forward,Pollution Checking Charges,,210006.66,503
+carried_over,Pollution Checking Charges,8-Oct-25,220023.57,503
+brought_forward,Pollution Checking Charges,,220023.57,504
+carried_over,Pollution Checking Charges,18-Oct-25,231048.95,504
+brought_forward,Pollution Checking Charges,,231048.95,505
+carried_over,Pollution Checking Charges,28-Oct-25,241218.4,505
+brought_forward,Pollution Checking Charges,,241218.4,506
+carried_over,Pollution Checking Charges,7-Nov-25,250192.95,506
+brought_forward,Pollution Checking Charges,,250192.95,507
+carried_over,Pollution Checking Charges,17-Nov-25,261125.11,507
+brought_forward,Pollution Checking Charges,,261125.11,508
+carried_over,Pollution Checking Charges,27-Nov-25,270904.73,508
+brought_forward,Pollution Checking Charges,,270904.73,509
+carried_over,Pollution Checking Charges,7-Dec-25,280709.76,509
+brought_forward,Pollution Checking Charges,,280709.76,510
+carried_over,Pollution Checking Charges,17-Dec-25,293379.2,510
+brought_forward,Pollution Checking Charges,,293379.2,511
+carried_over,Pollution Checking Charges,28-Dec-25,305294.41,511
+brought_forward,Pollution Checking Charges,,305294.41,512
+carried_over,Pollution Checking Charges,7-Jan-26,318031.65,512
+brought_forward,Pollution Checking Charges,,318031.65,513
+carried_over,Pollution Checking Charges,17-Jan-26,330896.02,513
+brought_forward,Pollution Checking Charges,,330896.02,514
+carried_over,Pollution Checking Charges,27-Jan-26,344837.49,514
+brought_forward,Pollution Checking Charges,,344837.49,515
+carried_over,Pollution Checking Charges,6-Feb-26,357837.46,515
+brought_forward,Pollution Checking Charges,,357837.46,516
+carried_over,Pollution Checking Charges,16-Feb-26,372600.13,516
+brought_forward,Pollution Checking Charges,,372600.13,517
+carried_over,Pollution Checking Charges,26-Feb-26,384532.29,517
+brought_forward,Pollution Checking Charges,,384532.29,518
+carried_over,Pollution Checking Charges,8-Mar-26,397684.81,518
+brought_forward,Pollution Checking Charges,,397684.81,519
+carried_over,Pollution Checking Charges,20-Mar-26,405947.47,519
+brought_forward,Pollution Checking Charges,,405947.47,520
+carried_over,Pollution Checking Charges,30-Mar-26,419116.92,520
+brought_forward,Pollution Checking Charges,,419116.92,521
+closing_balance,Pollution Checking Charges,31-Mar-26,420099.97,521
+opening_balance,POLLUTION CONTROL EQUIPMENT,1-Apr-25,20831.0,522
+closing_balance,POLLUTION CONTROL EQUIPMENT,30-Jul-25,41481.0,522
+opening_balance,P114,1-Apr-25,8050636.43,523
+closing_balance,P114,31-Mar-26,6634263.88,523
+closing_balance,Prepaid Insurance,31-Mar-26,3342.0,525
+opening_balance,P117,1-Apr-25,138212.23,526
+carried_over,P117,11-Nov-25,443118.23 1145748.0,526
+brought_forward,P117,,443118.23 1145748.0,527
+opening_balance,P118,1-Apr-25,365538.26,528
+carried_over,P118,31-Jul-25,1075206.09 522777.0,528
+brought_forward,P118,,1075206.09 522777.0,529
+carried_over,P118,30-Nov-25,2141212.09 1100924.0,529
+brought_forward,P118,,2141212.09 1100924.0,530
+carried_over,P118,28-Feb-26,3489396.09 2311090.0,530
+brought_forward,P118,,3489396.09 2311090.0,531
+closing_balance,P118,31-Mar-26,712693.32,531
+closing_balance,Printing & Stationery,30-Mar-26,65589.0,532
+closing_balance,Profit on Committee,31-Mar-26,200000.0,533
+opening_balance,Provident Fund Payable,1-Apr-25,21325.0,534
+carried_over,Provident Fund Payable,31-Oct-25,156870.0 177510.0,534
+brought_forward,Provident Fund Payable,,156870.0 177510.0,535
+closing_balance,Provident Fund Payable,31-Mar-26,21570.0,535
+carried_over,Purchase,13-Apr-25,7558996.67,536
+brought_forward,Purchase,,7558996.67,537
+carried_over,Purchase,22-Apr-25,21995771.81,537
+brought_forward,Purchase,,21995771.81,538
+carried_over,Purchase,3-May-25,36090211.12,538
+brought_forward,Purchase,,36090211.12,539
+carried_over,Purchase,17-May-25,50684280.01,539
+brought_forward,Purchase,,50684280.01,540
+carried_over,Purchase,30-May-25,65236230.7,540
+brought_forward,Purchase,,65236230.7,541
+carried_over,Purchase,11-Jun-25,79820023.27,541
+brought_forward,Purchase,,79820023.27,542
+carried_over,Purchase,25-Jun-25,94553210.18,542
+brought_forward,Purchase,,94553210.18,543
+carried_over,Purchase,8-Jul-25,109223037.61,543
+brought_forward,Purchase,,109223037.61,544
+carried_over,Purchase,21-Jul-25,123940015.74,544
+brought_forward,Purchase,,123940015.74,545
+carried_over,Purchase,2-Aug-25,138616842.28,545
+brought_forward,Purchase,,138616842.28,546
+carried_over,Purchase,14-Aug-25,153287269.7,546
+brought_forward,Purchase,,153287269.7,547
+carried_over,Purchase,28-Aug-25,168027455.74,547
+brought_forward,Purchase,,168027455.74,548
+carried_over,Purchase,10-Sep-25,182586772.97,548
+brought_forward,Purchase,,182586772.97,549
+carried_over,Purchase,20-Sep-25,197092772.98,549
+brought_forward,Purchase,,197092772.98,550
+carried_over,Purchase,3-Oct-25,211781387.2,550
+brought_forward,Purchase,,211781387.2,551
+carried_over,Purchase,14-Oct-25,226479211.1,551
+brought_forward,Purchase,,226479211.1,552
+carried_over,Purchase,25-Oct-25,241196189.22,552
+brought_forward,Purchase,,241196189.22,553
+carried_over,Purchase,6-Nov-25,255924955.01,553
+brought_forward,Purchase,,255924955.01,554
+carried_over,Purchase,15-Nov-25,270547631.75,554
+brought_forward,Purchase,,270547631.75,555
+carried_over,Purchase,26-Nov-25,285212670.62,555
+brought_forward,Purchase,,285212670.62,556
+carried_over,Purchase,6-Dec-25,299964644.33,556
+brought_forward,Purchase,,299964644.33,557
+carried_over,Purchase,18-Dec-25,314535981.82,557
+brought_forward,Purchase,,314535981.82,558
+carried_over,Purchase,30-Dec-25,329207883.9,558
+brought_forward,Purchase,,329207883.9,559
+carried_over,Purchase,12-Jan-26,343931861.13,559
+brought_forward,Purchase,,343931861.13,560
+carried_over,Purchase,25-Jan-26,358542750.2,560
+brought_forward,Purchase,,358542750.2,561
+carried_over,Purchase,5-Feb-26,373219209.33,561
+brought_forward,Purchase,,373219209.33,562
+carried_over,Purchase,16-Feb-26,387889036.76,562
+brought_forward,Purchase,,387889036.76,563
+carried_over,Purchase,27-Feb-26,402542287.96,563
+brought_forward,Purchase,,402542287.96,564
+carried_over,Purchase,10-Mar-26,417085519.87,564
+brought_forward,Purchase,,417085519.87,565
+carried_over,Purchase,23-Mar-26,431785921.76,565
+brought_forward,Purchase,,431785921.76,566
+closing_balance,Purchase,31-Mar-26,443717487.26,566
+carried_over,Purchase GST,25-Feb-26,473963.25,567
+brought_forward,Purchase GST,,473963.25,568
+closing_balance,Purchase GST,11-Mar-26,508751.35,568
+closing_balance,P124,31-Mar-26,15832.0,569
+opening_balance,P125,1-Apr-25,104476.56,570
+carried_over,P125,16-Dec-25,991672.25 991561.0,570
+brought_forward,P125,,991672.25 991561.0,571
+closing_balance,P125,31-Mar-26,149412.25,571
+carried_over,OIL SUPPLIER RENT,9-Jul-25,109288.47,573
+brought_forward,OIL SUPPLIER RENT,,109288.47,574
+carried_over,OIL SUPPLIER RENT,4-Nov-25,236604.12,574
+brought_forward,OIL SUPPLIER RENT,,236604.12,575
+carried_over,OIL SUPPLIER RENT,28-Feb-26,428983.63,575
+brought_forward,OIL SUPPLIER RENT,,428983.63,576
+closing_balance,OIL SUPPLIER RENT,31-Mar-26,475121.61,576
+closing_balance,Repair DG Set,20-Aug-25,7200.0,577
+closing_balance,R&M Machinery,28-Nov-25,7300.0,578
+opening_balance,P130,1-Apr-25,477690.96,579
+carried_over,P130,31-Jul-25,2079550.96 1930000.0,579
+brought_forward,P130,,2079550.96 1930000.0,580
+carried_over,P130,31-Dec-25,5017050.96 4351128.0,580
+brought_forward,P130,,5017050.96 4351128.0,581
+closing_balance,P130,31-Mar-26,561427.96,581
+carried_over,Round Off/Discount,30-Apr-25,0.13 2.28,582
+brought_forward,Round Off/Discount,,0.13 2.28,583
+carried_over,Round Off/Discount,30-Apr-25,1.03 3.66,583
+brought_forward,Round Off/Discount,,1.03 3.66,584
+carried_over,Round Off/Discount,30-Apr-25,2.65 4.33,584
+brought_forward,Round Off/Discount,,2.65 4.33,585
+carried_over,Round Off/Discount,17-May-25,3.46 5.6,585
+brought_forward,Round Off/Discount,,3.46 5.6,586
+carried_over,Round Off/Discount,31-May-25,3.93 8.45,586
+brought_forward,Round Off/Discount,,3.93 8.45,587
+carried_over,Round Off/Discount,31-May-25,4.62 9.46,587
+brought_forward,Round Off/Discount,,4.62 9.46,588
+carried_over,Round Off/Discount,31-May-25,4.9 10.9,588
+brought_forward,Round Off/Discount,,4.9 10.9,589
+carried_over,Round Off/Discount,30-Jun-25,5.98 12.46,589
+brought_forward,Round Off/Discount,,5.98 12.46,590
+carried_over,Round Off/Discount,30-Jun-25,7.81 13.13,590
+brought_forward,Round Off/Discount,,7.81 13.13,591
+carried_over,Round Off/Discount,30-Jun-25,9.46 14.42,591
+brought_forward,Round Off/Discount,,9.46 14.42,592
+carried_over,Round Off/Discount,31-Jul-25,10.11 16.33,592
+brought_forward,Round Off/Discount,,10.11 16.33,593
+carried_over,Round Off/Discount,31-Jul-25,10.37 19.08,593
+brought_forward,Round Off/Discount,,10.37 19.08,594
+carried_over,Round Off/Discount,31-Jul-25,10.86 21.05,594
+brought_forward,Round Off/Discount,,10.86 21.05,595
+carried_over,Round Off/Discount,31-Aug-25,12.81 21.94,595
+brought_forward,Round Off/Discount,,12.81 21.94,596
+carried_over,Round Off/Discount,31-Aug-25,12.84 24.27,596
+brought_forward,Round Off/Discount,,12.84 24.27,597
+carried_over,Round Off/Discount,31-Aug-25,13.98 25.31,597
+brought_forward,Round Off/Discount,,13.98 25.31,598
+carried_over,Round Off/Discount,20-Sep-25,14.88 26.17,598
+brought_forward,Round Off/Discount,,14.88 26.17,599
+carried_over,Round Off/Discount,30-Sep-25,15.8 27.63,599
+brought_forward,Round Off/Discount,,15.8 27.63,600
+carried_over,Round Off/Discount,30-Sep-25,16.66 29.65,600
+brought_forward,Round Off/Discount,,16.66 29.65,601
+carried_over,Round Off/Discount,30-Sep-25,19.04 31.27,601
+brought_forward,Round Off/Discount,,19.04 31.27,602
+carried_over,Round Off/Discount,31-Oct-25,20.21 32.92,602
+brought_forward,Round Off/Discount,,20.21 32.92,603
+carried_over,Round Off/Discount,31-Oct-25,20.99 34.47,603
+brought_forward,Round Off/Discount,,20.99 34.47,604
+carried_over,Round Off/Discount,31-Oct-25,22.23 35.73,604
+brought_forward,Round Off/Discount,,22.23 35.73,605
+carried_over,Round Off/Discount,30-Nov-25,22.48 38.34,605
+brought_forward,Round Off/Discount,,22.48 38.34,606
+carried_over,Round Off/Discount,30-Nov-25,23.68 39.87,606
+brought_forward,Round Off/Discount,,23.68 39.87,607
+carried_over,Round Off/Discount,30-Nov-25,25.14 40.59,607
+brought_forward,Round Off/Discount,,25.14 40.59,608
+carried_over,Round Off/Discount,31-Dec-25,26.1 41.45,608
+brought_forward,Round Off/Discount,,26.1 41.45,609
+carried_over,Round Off/Discount,31-Dec-25,26.7 43.19,609
+brought_forward,Round Off/Discount,,26.7 43.19,610
+carried_over,Round Off/Discount,31-Dec-25,27.54 43.92,610
+brought_forward,Round Off/Discount,,27.54 43.92,611
+carried_over,Round Off/Discount,14-Jan-26,28.76 45.41,611
+brought_forward,Round Off/Discount,,28.76 45.41,612
+carried_over,Round Off/Discount,31-Jan-26,30.17 47.69,612
+brought_forward,Round Off/Discount,,30.17 47.69,613
+carried_over,Round Off/Discount,31-Jan-26,31.35 48.6,613
+brought_forward,Round Off/Discount,,31.35 48.6,614
+carried_over,Round Off/Discount,31-Jan-26,31.99 49.64,614
+brought_forward,Round Off/Discount,,31.99 49.64,615
+carried_over,Round Off/Discount,28-Feb-26,32.86 51.77,615
+brought_forward,Round Off/Discount,,32.86 51.77,616
+carried_over,Round Off/Discount,28-Feb-26,33.62 53.81,616
+brought_forward,Round Off/Discount,,33.62 53.81,617
+carried_over,Round Off/Discount,28-Feb-26,34.23 54.76,617
+brought_forward,Round Off/Discount,,34.23 54.76,618
+carried_over,Round Off/Discount,15-Mar-26,34.73 56.87,618
+brought_forward,Round Off/Discount,,34.73 56.87,619
+carried_over,Round Off/Discount,31-Mar-26,35.37 58.24,619
+brought_forward,Round Off/Discount,,35.37 58.24,620
+carried_over,Round Off/Discount,31-Mar-26,36.78 59.55,620
+brought_forward,Round Off/Discount,,36.78 59.55,621
+carried_over,Round Off/Discount,31-Mar-26,38.38 62.57,621
+brought_forward,Round Off/Discount,,38.38 62.57,622
+closing_balance,Round Off/Discount,31-Mar-26,1625.29,622
+carried_over,Salary Expenses,31-Dec-25,3651000.0,624
+brought_forward,Salary Expenses,,3651000.0,625
+closing_balance,Salary Expenses,31-Mar-26,4993500.0,625
+opening_balance,SALARY PAYABLE,1-Apr-25,1525000.0,626
+carried_over,SALARY PAYABLE,8-Sep-25,2732500.0 3663000.0,626
+brought_forward,SALARY PAYABLE,,2732500.0 3663000.0,627
+carried_over,SALARY PAYABLE,13-Jan-26,5671000.0 5671000.0,627
+brought_forward,SALARY PAYABLE,,5671000.0 5671000.0,628
+closing_balance,SALARY PAYABLE,31-Mar-26,508500.0,628
+carried_over,Sales,8-Apr-25,7211460.56,629
+brought_forward,Sales,,7211460.56,630
+carried_over,Sales,15-Apr-25,16289166.47,630
+brought_forward,Sales,,16289166.47,631
+carried_over,Sales,22-Apr-25,25181902.95,631
+brought_forward,Sales,,25181902.95,632
+carried_over,Sales,30-Apr-25,34679516.2,632
+brought_forward,Sales,,34679516.2,633
+carried_over,Sales,30-Apr-25,37747442.85,633
+brought_forward,Sales,,37747442.85,634
+carried_over,Sales,30-Apr-25,40175995.33,634
+brought_forward,Sales,,40175995.33,635
+carried_over,Sales,6-May-25,47448379.33,635
+brought_forward,Sales,,47448379.33,636
+carried_over,Sales,15-May-25,55177499.86,636
+brought_forward,Sales,,55177499.86,637
+carried_over,Sales,21-May-25,59850858.08,637
+brought_forward,Sales,,59850858.08,638
+carried_over,Sales,28-May-25,66586771.94,638
+brought_forward,Sales,,66586771.94,639
+carried_over,Sales,31-May-25,71651409.4,639
+brought_forward,Sales,,71651409.4,640
+carried_over,Sales,31-May-25,74746886.66,640
+brought_forward,Sales,,74746886.66,641
+carried_over,Sales,1-Jun-25,77266087.36,641
+brought_forward,Sales,,77266087.36,642
+carried_over,Sales,11-Jun-25,87079300.81,642
+brought_forward,Sales,,87079300.81,643
+carried_over,Sales,18-Jun-25,93982331.04,643
+brought_forward,Sales,,93982331.04,644
+carried_over,Sales,26-Jun-25,101369836.08,644
+brought_forward,Sales,,101369836.08,645
+carried_over,Sales,30-Jun-25,106266361.39,645
+brought_forward,Sales,,106266361.39,646
+carried_over,Sales,30-Jun-25,108163351.0,646
+brought_forward,Sales,,108163351.0,647
+carried_over,Sales,2-Jul-25,111711385.2,647
+brought_forward,Sales,,111711385.2,648
+carried_over,Sales,9-Jul-25,119401147.4,648
+brought_forward,Sales,,119401147.4,649
+carried_over,Sales,16-Jul-25,126546824.08,649
+brought_forward,Sales,,126546824.08,650
+carried_over,Sales,25-Jul-25,135358286.12,650
+brought_forward,Sales,,135358286.12,651
+carried_over,Sales,31-Jul-25,142257724.35,651
+brought_forward,Sales,,142257724.35,652
+carried_over,Sales,31-Jul-25,144978015.79,652
+brought_forward,Sales,,144978015.79,653
+carried_over,Sales,31-Jul-25,146320661.84,653
+brought_forward,Sales,,146320661.84,654
+carried_over,Sales,6-Aug-25,152955925.63,654
+brought_forward,Sales,,152955925.63,655
+carried_over,Sales,15-Aug-25,162847882.66,655
+brought_forward,Sales,,162847882.66,656
+carried_over,Sales,22-Aug-25,170843951.47,656
+brought_forward,Sales,,170843951.47,657
+carried_over,Sales,29-Aug-25,176618698.72,657
+brought_forward,Sales,,176618698.72,658
+carried_over,Sales,31-Aug-25,180442521.73,658
+brought_forward,Sales,,180442521.73,659
+carried_over,Sales,31-Aug-25,182617891.24,659
+brought_forward,Sales,,182617891.24,660
+carried_over,Sales,4-Sep-25,187080179.06,660
+brought_forward,Sales,,187080179.06,661
+carried_over,Sales,13-Sep-25,197366081.37,661
+brought_forward,Sales,,197366081.37,662
+carried_over,Sales,20-Sep-25,206667131.69,662
+brought_forward,Sales,,206667131.69,663
+carried_over,Sales,26-Sep-25,212754129.09,663
+brought_forward,Sales,,212754129.09,664
+carried_over,Sales,30-Sep-25,219551998.3,664
+brought_forward,Sales,,219551998.3,665
+carried_over,Sales,30-Sep-25,220961145.74,665
+brought_forward,Sales,,220961145.74,666
+carried_over,Sales,1-Oct-25,223013048.25,666
+brought_forward,Sales,,223013048.25,667
+carried_over,Sales,10-Oct-25,233815335.77,667
+brought_forward,Sales,,233815335.77,668
+carried_over,Sales,18-Oct-25,242795188.93,668
+brought_forward,Sales,,242795188.93,669
+carried_over,Sales,27-Oct-25,253088404.79,669
+brought_forward,Sales,,253088404.79,670
+carried_over,Sales,31-Oct-25,259267615.25,670
+brought_forward,Sales,,259267615.25,671
+carried_over,Sales,31-Oct-25,262216011.05,671
+brought_forward,Sales,,262216011.05,672
+carried_over,Sales,31-Oct-25,264216867.92,672
+brought_forward,Sales,,264216867.92,673
+carried_over,Sales,10-Nov-25,276678191.78,673
+brought_forward,Sales,,276678191.78,674
+carried_over,Sales,18-Nov-25,285580220.46,674
+brought_forward,Sales,,285580220.46,675
+carried_over,Sales,27-Nov-25,297002277.94,675
+brought_forward,Sales,,297002277.94,676
+carried_over,Sales,30-Nov-25,301400988.81,676
+brought_forward,Sales,,301400988.81,677
+carried_over,Sales,30-Nov-25,303182823.56,677
+brought_forward,Sales,,303182823.56,678
+carried_over,Sales,2-Dec-25,308558357.48,678
+brought_forward,Sales,,308558357.48,679
+carried_over,Sales,9-Dec-25,319048580.96,679
+brought_forward,Sales,,319048580.96,680
+carried_over,Sales,16-Dec-25,326798656.53,680
+brought_forward,Sales,,326798656.53,681
+carried_over,Sales,24-Dec-25,334619208.49,681
+brought_forward,Sales,,334619208.49,682
+carried_over,Sales,31-Dec-25,342499179.4,682
+brought_forward,Sales,,342499179.4,683
+carried_over,Sales,31-Dec-25,345772601.36,683
+brought_forward,Sales,,345772601.36,684
+carried_over,Sales,31-Dec-25,347449896.13,684
+brought_forward,Sales,,347449896.13,685
+carried_over,Sales,8-Jan-26,355845122.49,685
+brought_forward,Sales,,355845122.49,686
+carried_over,Sales,17-Jan-26,364276815.25,686
+brought_forward,Sales,,364276815.25,687
+carried_over,Sales,25-Jan-26,371858464.07,687
+brought_forward,Sales,,371858464.07,688
+carried_over,Sales,31-Jan-26,378900110.54,688
+brought_forward,Sales,,378900110.54,689
+carried_over,Sales,31-Jan-26,383018430.34,689
+brought_forward,Sales,,383018430.34,690
+carried_over,Sales,31-Jan-26,384256023.9,690
+brought_forward,Sales,,384256023.9,691
+carried_over,Sales,5-Feb-26,390181362.48,691
+brought_forward,Sales,,390181362.48,692
+carried_over,Sales,13-Feb-26,400162694.36,692
+brought_forward,Sales,,400162694.36,693
+carried_over,Sales,20-Feb-26,408818357.0,693
+brought_forward,Sales,,408818357.0,694
+carried_over,Sales,28-Feb-26,417449115.9,694
+brought_forward,Sales,,417449115.9,695
+carried_over,Sales,28-Feb-26,419359362.9,695
+brought_forward,Sales,,419359362.9,696
+carried_over,Sales,28-Feb-26,422855630.34,696
+brought_forward,Sales,,422855630.34,697
+carried_over,Sales,5-Mar-26,429778520.99,697
+brought_forward,Sales,,429778520.99,698
+carried_over,Sales,15-Mar-26,440125189.68,698
+brought_forward,Sales,,440125189.68,699
+carried_over,Sales,22-Mar-26,447508302.6,699
+brought_forward,Sales,,447508302.6,700
+carried_over,Sales,30-Mar-26,458043976.6,700
+brought_forward,Sales,,458043976.6,701
+carried_over,Sales,31-Mar-26,461168796.95,701
+brought_forward,Sales,,461168796.95,702
+carried_over,Sales,31-Mar-26,463426931.28,702
+brought_forward,Sales,,463426931.28,703
+closing_balance,Sales,31-Mar-26,464221633.25,703
+carried_over,Sales GST,9-Apr-25,16420.31,704
+brought_forward,Sales GST,,16420.31,705
+carried_over,Sales GST,18-Apr-25,33092.51,705
+brought_forward,Sales GST,,33092.51,706
+carried_over,Sales GST,28-Apr-25,58508.3,706
+brought_forward,Sales GST,,58508.3,707
+carried_over,Sales GST,6-May-25,79979.86,707
+brought_forward,Sales GST,,79979.86,708
+carried_over,Sales GST,15-May-25,96921.51,708
+brought_forward,Sales GST,,96921.51,709
+carried_over,Sales GST,25-May-25,126326.11,709
+brought_forward,Sales GST,,126326.11,710
+carried_over,Sales GST,31-May-25,147086.68,710
+brought_forward,Sales GST,,147086.68,711
+carried_over,Sales GST,8-Jun-25,245392.81,711
+brought_forward,Sales GST,,245392.81,712
+carried_over,Sales GST,18-Jun-25,259707.48,712
+brought_forward,Sales GST,,259707.48,713
+carried_over,Sales GST,28-Jun-25,275150.15,713
+brought_forward,Sales GST,,275150.15,714
+carried_over,Sales GST,7-Jul-25,293355.55,714
+brought_forward,Sales GST,,293355.55,715
+carried_over,Sales GST,17-Jul-25,312565.97,715
+brought_forward,Sales GST,,312565.97,716
+carried_over,Sales GST,27-Jul-25,324526.05,716
+brought_forward,Sales GST,,324526.05,717
+carried_over,Sales GST,1-Aug-25,343473.81,717
+brought_forward,Sales GST,,343473.81,718
+carried_over,Sales GST,11-Aug-25,355318.68,718
+brought_forward,Sales GST,,355318.68,719
+carried_over,Sales GST,21-Aug-25,369150.51,719
+brought_forward,Sales GST,,369150.51,720
+carried_over,Sales GST,30-Aug-25,379680.55,720
+brought_forward,Sales GST,,379680.55,721
+carried_over,Sales GST,4-Sep-25,401058.06,721
+brought_forward,Sales GST,,401058.06,722
+carried_over,Sales GST,14-Sep-25,432697.2,722
+brought_forward,Sales GST,,432697.2,723
+carried_over,Sales GST,23-Sep-25,453878.87,723
+brought_forward,Sales GST,,453878.87,724
+carried_over,Sales GST,1-Oct-25,471790.28,724
+brought_forward,Sales GST,,471790.28,725
+carried_over,Sales GST,11-Oct-25,498156.59,725
+brought_forward,Sales GST,,498156.59,726
+carried_over,Sales GST,21-Oct-25,513869.62,726
+brought_forward,Sales GST,,513869.62,727
+carried_over,Sales GST,31-Oct-25,534672.38,727
+brought_forward,Sales GST,,534672.38,728
+carried_over,Sales GST,7-Nov-25,557172.69,728
+brought_forward,Sales GST,,557172.69,729
+carried_over,Sales GST,17-Nov-25,577147.59,729
+brought_forward,Sales GST,,577147.59,730
+carried_over,Sales GST,27-Nov-25,595022.56,730
+brought_forward,Sales GST,,595022.56,731
+carried_over,Sales GST,5-Dec-25,620682.29,731
+brought_forward,Sales GST,,620682.29,732
+carried_over,Sales GST,15-Dec-25,640546.78,732
+brought_forward,Sales GST,,640546.78,733
+carried_over,Sales GST,24-Dec-25,661889.57,733
+brought_forward,Sales GST,,661889.57,734
+carried_over,Sales GST,31-Dec-25,685710.37,734
+brought_forward,Sales GST,,685710.37,735
+carried_over,Sales GST,10-Jan-26,707659.83,735
+brought_forward,Sales GST,,707659.83,736
+carried_over,Sales GST,19-Jan-26,728677.16,736
+brought_forward,Sales GST,,728677.16,737
+carried_over,Sales GST,29-Jan-26,744364.2,737
+brought_forward,Sales GST,,744364.2,738
+carried_over,Sales GST,4-Feb-26,767053.28,738
+brought_forward,Sales GST,,767053.28,739
+carried_over,Sales GST,14-Feb-26,785242.37,739
+brought_forward,Sales GST,,785242.37,740
+carried_over,Sales GST,23-Feb-26,804078.88,740
+brought_forward,Sales GST,,804078.88,741
+carried_over,Sales GST,2-Mar-26,821098.49,741
+brought_forward,Sales GST,,821098.49,742
+carried_over,Sales GST,12-Mar-26,838592.67,742
+brought_forward,Sales GST,,838592.67,743
+carried_over,Sales GST,20-Mar-26,845532.06,743
+brought_forward,Sales GST,,845532.06,744
+carried_over,Sales GST,30-Mar-26,858679.75,744
+brought_forward,Sales GST,,858679.75,745
+closing_balance,Sales GST,31-Mar-26,863340.79,745
+closing_balance,P137,31-Oct-25,15000.0,746
+opening_balance,SCOOTER,1-Apr-25,74908.0,747
+closing_balance,SCOOTER,1-Apr-25,74908.0,747
+opening_balance,SECURITY WITH SUPPLIER,1-Apr-25,25000.0,748
+closing_balance,SECURITY WITH SUPPLIER,1-Apr-25,25000.0,748
+opening_balance,OIL SUPPLIER SECURITY,1-Apr-25,350000.0,749
+closing_balance,OIL SUPPLIER SECURITY,7-Nov-25,400000.0,749
+opening_balance,SECURITY WITH SALES TAX DEPTT,1-Apr-25,20000.0,750
+closing_balance,SECURITY WITH SALES TAX DEPTT,1-Apr-25,20000.0,750
+opening_balance,P142,1-Apr-25,1432196.0,751
+carried_over,P142,31-Dec-25,6189755.0 4027800.0,751
+brought_forward,P142,,6189755.0 4027800.0,752
+closing_balance,P142,31-Mar-26,1435371.0,752
+carried_over,SGST,5-Apr-25,1574.21,753
+brought_forward,SGST,,1574.21,754
+carried_over,SGST,10-Apr-25,2624.82,754
+brought_forward,SGST,,2624.82,755
+carried_over,SGST,15-Apr-25,3634.09,755
+brought_forward,SGST,,3634.09,756
+carried_over,SGST,19-Apr-25,5625.74,756
+brought_forward,SGST,,5625.74,757
+carried_over,SGST,24-Apr-25,7083.35,757
+brought_forward,SGST,,7083.35,758
+carried_over,SGST,29-Apr-25,8509.05,758
+brought_forward,SGST,,8509.05,759
+carried_over,SGST,3-May-25,9446.71 10039.25,759
+brought_forward,SGST,,9446.71 10039.25,760
+carried_over,SGST,8-May-25,9446.71 11157.54,760
+brought_forward,SGST,,9446.71 11157.54,761
+carried_over,SGST,13-May-25,9446.71 11952.59,761
+brought_forward,SGST,,9446.71 11952.59,762
+carried_over,SGST,17-May-25,9446.71 13753.47,762
+brought_forward,SGST,,9446.71 13753.47,763
+carried_over,SGST,23-May-25,9446.71 15614.52,763
+brought_forward,SGST,,9446.71 15614.52,764
+carried_over,SGST,28-May-25,9446.71 17709.15,764
+brought_forward,SGST,,9446.71 17709.15,765
+carried_over,SGST,31-May-25,9446.71 19056.14,765
+brought_forward,SGST,,9446.71 19056.14,766
+carried_over,SGST,3-Jun-25,19597.65 20569.65,766
+brought_forward,SGST,,19597.65 20569.65,767
+carried_over,SGST,8-Jun-25,19597.65 22263.44,767
+brought_forward,SGST,,19597.65 22263.44,768
+carried_over,SGST,13-Jun-25,19597.65 30470.74,768
+brought_forward,SGST,,19597.65 30470.74,769
+carried_over,SGST,18-Jun-25,19597.65 31454.96,769
+brought_forward,SGST,,19597.65 31454.96,770
+carried_over,SGST,23-Jun-25,19597.65 32682.49,770
+brought_forward,SGST,,19597.65 32682.49,771
+carried_over,SGST,28-Jun-25,19597.65 33955.26,771
+brought_forward,SGST,,19597.65 33955.26,772
+carried_over,SGST,2-Jul-25,34635.27 35265.06,772
+brought_forward,SGST,,34635.27 35265.06,773
+carried_over,SGST,7-Jul-25,34635.27 36797.28,773
+brought_forward,SGST,,34635.27 36797.28,774
+carried_over,SGST,12-Jul-25,34635.27 38066.32,774
+brought_forward,SGST,,34635.27 38066.32,775
+carried_over,SGST,17-Jul-25,34635.27 39598.57,775
+brought_forward,SGST,,34635.27 39598.57,776
+carried_over,SGST,22-Jul-25,34635.27 40846.54,776
+brought_forward,SGST,,34635.27 40846.54,777
+carried_over,SGST,27-Jul-25,34635.27 41625.28,777
+brought_forward,SGST,,34635.27 41625.28,778
+carried_over,SGST,31-Jul-25,34635.27 42859.92,778
+brought_forward,SGST,,34635.27 42859.92,779
+carried_over,SGST,3-Aug-25,43523.47 44354.46,779
+brought_forward,SGST,,43523.47 44354.46,780
+carried_over,SGST,8-Aug-25,43523.47 45589.43,780
+brought_forward,SGST,,43523.47 45589.43,781
+carried_over,SGST,13-Aug-25,43523.47 46735.4,781
+brought_forward,SGST,,43523.47 46735.4,782
+carried_over,SGST,18-Aug-25,43523.47 47831.77,782
+brought_forward,SGST,,43523.47 47831.77,783
+carried_over,SGST,23-Aug-25,43523.47 49375.31,783
+brought_forward,SGST,,43523.47 49375.31,784
+carried_over,SGST,28-Aug-25,43523.47 50078.68,784
+brought_forward,SGST,,43523.47 50078.68,785
+carried_over,SGST,31-Aug-25,43523.47 51401.65,785
+brought_forward,SGST,,43523.47 51401.65,786
+carried_over,SGST,3-Sep-25,51943.17 52541.16,786
+brought_forward,SGST,,51943.17 52541.16,787
+carried_over,SGST,8-Sep-25,51943.17 53895.9,787
+brought_forward,SGST,,51943.17 53895.9,788
+carried_over,SGST,13-Sep-25,51943.17 56024.51,788
+brought_forward,SGST,,51943.17 56024.51,789
+carried_over,SGST,18-Sep-25,51943.17 57859.01,789
+brought_forward,SGST,,51943.17 57859.01,790
+carried_over,SGST,23-Sep-25,51943.17 59153.58,790
+brought_forward,SGST,,51943.17 59153.58,791
+carried_over,SGST,28-Sep-25,51943.17 60350.24,791
+brought_forward,SGST,,51943.17 60350.24,792
+carried_over,SGST,1-Oct-25,61331.73 61640.39,792
+brought_forward,SGST,,61331.73 61640.39,793
+carried_over,SGST,6-Oct-25,61331.73 63382.75,793
+brought_forward,SGST,,61331.73 63382.75,794
+carried_over,SGST,11-Oct-25,61331.73 64930.08,794
+brought_forward,SGST,,61331.73 64930.08,795
+carried_over,SGST,16-Oct-25,61331.73 65927.41,795
+brought_forward,SGST,,61331.73 65927.41,796
+carried_over,SGST,21-Oct-25,61331.73 67254.1,796
+brought_forward,SGST,,61331.73 67254.1,797
+carried_over,SGST,26-Oct-25,61331.73 68358.02,797
+brought_forward,SGST,,61331.73 68358.02,798
+carried_over,SGST,31-Oct-25,61331.73 70056.08,798
+brought_forward,SGST,,61331.73 70056.08,799
+carried_over,SGST,4-Nov-25,70809.63 71755.8,799
+brought_forward,SGST,,70809.63 71755.8,800
+carried_over,SGST,9-Nov-25,70809.63 72898.43,800
+brought_forward,SGST,,70809.63 72898.43,801
+carried_over,SGST,14-Nov-25,70809.63 74461.47,801
+brought_forward,SGST,,70809.63 74461.47,802
+carried_over,SGST,19-Nov-25,70809.63 75796.42,802
+brought_forward,SGST,,70809.63 75796.42,803
+carried_over,SGST,24-Nov-25,70809.63 76837.65,803
+brought_forward,SGST,,70809.63 76837.65,804
+carried_over,SGST,29-Nov-25,70809.63 78334.9,804
+brought_forward,SGST,,70809.63 78334.9,805
+carried_over,SGST,2-Dec-25,79257.67 79730.01,805
+brought_forward,SGST,,79257.67 79730.01,806
+carried_over,SGST,7-Dec-25,79257.67 81186.59,806
+brought_forward,SGST,,79257.67 81186.59,807
+carried_over,SGST,12-Dec-25,79257.67 82746.49,807
+brought_forward,SGST,,79257.67 82746.49,808
+carried_over,SGST,16-Dec-25,79257.67 84419.09,808
+brought_forward,SGST,,79257.67 84419.09,809
+carried_over,SGST,22-Dec-25,79257.67 85996.88,809
+brought_forward,SGST,,79257.67 85996.88,810
+carried_over,SGST,27-Dec-25,79257.67 87079.28,810
+brought_forward,SGST,,79257.67 87079.28,811
+carried_over,SGST,31-Dec-25,79257.67 88905.06,811
+brought_forward,SGST,,79257.67 88905.06,812
+carried_over,SGST,4-Jan-26,89477.08 90559.78,812
+brought_forward,SGST,,89477.08 90559.78,813
+carried_over,SGST,9-Jan-26,89477.08 92292.93,813
+brought_forward,SGST,,89477.08 92292.93,814
+carried_over,SGST,14-Jan-26,89477.08 93547.77,814
+brought_forward,SGST,,89477.08 93547.77,815
+carried_over,SGST,18-Jan-26,89477.08 95257.19,815
+brought_forward,SGST,,89477.08 95257.19,816
+carried_over,SGST,23-Jan-26,89477.08 96591.42,816
+brought_forward,SGST,,89477.08 96591.42,817
+carried_over,SGST,28-Jan-26,89477.08 97947.5,817
+brought_forward,SGST,,89477.08 97947.5,818
+carried_over,SGST,31-Jan-26,89477.08 99958.48,818
+brought_forward,SGST,,89477.08 99958.48,819
+carried_over,SGST,5-Feb-26,99958.48 101127.13,819
+brought_forward,SGST,,99958.48 101127.13,820
+carried_over,SGST,10-Feb-26,99958.48 102934.1,820
+brought_forward,SGST,,99958.48 102934.1,821
+carried_over,SGST,15-Feb-26,99958.48 104075.94,821
+brought_forward,SGST,,99958.48 104075.94,822
+carried_over,SGST,19-Feb-26,99958.48 105533.86,822
+brought_forward,SGST,,99958.48 105533.86,823
+carried_over,SGST,24-Feb-26,99958.48 106887.9,823
+brought_forward,SGST,,99958.48 106887.9,824
+carried_over,SGST,28-Feb-26,99958.48 107808.71,824
+brought_forward,SGST,,99958.48 107808.71,825
+carried_over,SGST,4-Mar-26,108304.46 109319.8,825
+brought_forward,SGST,,108304.46 109319.8,826
+carried_over,SGST,9-Mar-26,108304.46 110728.91,826
+brought_forward,SGST,,108304.46 110728.91,827
+carried_over,SGST,14-Mar-26,108304.46 111750.6,827
+brought_forward,SGST,,108304.46 111750.6,828
+carried_over,SGST,19-Mar-26,108304.46 112446.0,828
+brought_forward,SGST,,108304.46 112446.0,829
+carried_over,SGST,24-Mar-26,108304.46 113720.43,829
+brought_forward,SGST,,108304.46 113720.43,830
+carried_over,SGST,29-Mar-26,108304.46 114826.13,830
+brought_forward,SGST,,108304.46 114826.13,831
+closing_balance,SGST to Be Claimed,25-Feb-26,1144.07,832
+opening_balance,P145,1-Apr-25,23878.02,833
+carried_over,P145,3-Sep-25,204642.02 204679.0,833
+brought_forward,P145,,204642.02 204679.0,834
+carried_over,P145,21-Mar-26,421908.02 421942.0,834
+brought_forward,P145,,421908.02 421942.0,835
+closing_balance,P145,31-Mar-26,42468.02,835
+carried_over,P146,26-Jul-25,2475000.0 2475000.0,836
+brought_forward,P146,,2475000.0 2475000.0,837
+carried_over,P146,20-Feb-26,6332000.0 6167000.0,837
+brought_forward,P146,,6332000.0 6167000.0,838
+closing_balance,P146,31-Mar-26,390000.0,838
+opening_balance,Smoke Meter & Gas Analyzer,1-Apr-25,60220.0,839
+closing_balance,Smoke Meter & Gas Analyzer,1-Apr-25,60220.0,839
+opening_balance,Solar Panel,1-Apr-25,143770.0,840
+closing_balance,Solar Panel,1-Apr-25,143770.0,840
+carried_over,Sslf Credit,31-Jul-25,487997.54 487997.69,841
+brought_forward,Sslf Credit,,487997.54 487997.69,842
+carried_over,Sslf Credit,31-Dec-25,979321.81 979322.14,842
+brought_forward,Sslf Credit,,979321.81 979322.14,843
+opening_balance,STABLIZER,1-Apr-25,998.0,844
+closing_balance,STABLIZER,1-Apr-25,998.0,844
+closing_balance,Staff Uniform,28-Nov-25,33360.0,845
+closing_balance,Staff Welfare,2-Mar-26,46000.0,846
+opening_balance,P153,1-Apr-25,1081120.12,847
+carried_over,P153,30-Jun-25,3619775.12 2390000.0,847
+brought_forward,P153,,3619775.12 2390000.0,848
+carried_over,P153,22-Oct-25,6389826.12 6385066.0,848
+brought_forward,P153,,6389826.12 6385066.0,849
+carried_over,P153,25-Feb-26,9900879.27 9442066.0,849
+brought_forward,P153,,9900879.27 9442066.0,850
+closing_balance,P153,31-Mar-26,777090.27,850
+opening_balance,P154,1-Apr-25,202054.0,851
+carried_over,P154,30-Jun-25,1021329.0 608000.0,851
+brought_forward,P154,,1021329.0 608000.0,852
+carried_over,P154,15-Oct-25,1637138.0 1530000.0,852
+brought_forward,P154,,1637138.0 1530000.0,853
+carried_over,P154,16-Feb-26,2751344.0 2435000.0,853
+brought_forward,P154,,2751344.0 2435000.0,854
+closing_balance,P154,31-Mar-26,507960.0,854
+opening_balance,P155,1-Apr-25,110949.42,855
+closing_balance,P155,31-Mar-26,55474.42,855
+closing_balance,Tally AMC,7-Oct-25,8496.0,857
+opening_balance,P158,1-Apr-25,900000.0,858
+closing_balance,P158,31-Mar-26,2900000.0,858
+opening_balance,Tanker,1-Apr-25,1279259.51,859
+closing_balance,Tanker,1-Apr-25,1279259.51,859
+carried_over,TANKER VEH-1,7-Nov-25,64385.4,860
+brought_forward,TANKER VEH-1,,64385.4,861
+carried_over,TANKER VEH-1,26-Dec-25,158388.59,861
+brought_forward,TANKER VEH-1,,158388.59,862
+carried_over,TANKER VEH-1,9-Feb-26,254735.92,862
+brought_forward,TANKER VEH-1,,254735.92,863
+carried_over,TANKER VEH-1,24-Mar-26,335651.42,863
+brought_forward,TANKER VEH-1,,335651.42,864
+closing_balance,TANKER VEH-1,31-Mar-26,348784.42,864
+opening_balance,TCS Payable on Sale,1-Apr-25,5380.0,866
+opening_balance,TDS RECEIVABLE SUPPLIER,1-Apr-25,23581.49,867
+carried_over,TDS RECEIVABLE SUPPLIER,31-Jan-26,68599.39 23581.49,867
+brought_forward,TDS RECEIVABLE SUPPLIER,,68599.39 23581.49,868
+closing_balance,TDS RECEIVABLE SUPPLIER,31-Mar-26,22182.0,868
+opening_balance,TDS PAYABLE,1-Apr-25,55339.0,869
+carried_over,TDS PAYABLE,5-Jun-25,122394.0 122394.0,869
+brought_forward,TDS PAYABLE,,122394.0 122394.0,870
+carried_over,TDS PAYABLE,31-Jan-26,477494.0 487494.0,870
+brought_forward,TDS PAYABLE,,477494.0 487494.0,871
+closing_balance,TDS PAYABLE,31-Mar-26,48743.0,871
+opening_balance,TDS RECEIVABLE SUPPLIER,1-Apr-25,156629.71,872
+carried_over,TDS RECEIVABLE SUPPLIER,28-Jun-25,323256.75 146958.86,872
+brought_forward,TDS RECEIVABLE SUPPLIER,,323256.75 146958.86,873
+carried_over,TDS RECEIVABLE SUPPLIER,19-Sep-25,427468.64 356332.18,873
+brought_forward,TDS RECEIVABLE SUPPLIER,,427468.64 356332.18,874
+carried_over,TDS RECEIVABLE SUPPLIER,31-Jan-26,807709.8 631930.13,874
+brought_forward,TDS RECEIVABLE SUPPLIER,,807709.8 631930.13,875
+closing_balance,TDS RECEIVABLE SUPPLIER,31-Mar-26,159673.24,875
+closing_balance,Telephone Expenses,22-Mar-26,15743.0,876
+opening_balance,Television,1-Apr-25,12586.0,877
+closing_balance,Television,1-Apr-25,12586.0,877
+closing_balance,Valuation Charges,30-Oct-25,14160.0,878
+opening_balance,Vat Receivable,1-Apr-25,9228.83,879
+closing_balance,Vat Receivable,1-Apr-25,9228.83,879
+carried_over,VEH & DG SET RUNING,30-Aug-25,198973.36,880
+brought_forward,VEH & DG SET RUNING,,198973.36,881
+carried_over,VEH & DG SET RUNING,20-Jan-26,391624.18,881
+brought_forward,VEH & DG SET RUNING,,391624.18,882
+closing_balance,VEH & DG SET RUNING,29-Mar-26,510975.27,882
+closing_balance,Veh. Running & Maintenance Exp,31-Mar-26,428152.58,883
+opening_balance,WATER PURIFIER,1-Apr-25,496.0,885
+closing_balance,WATER PURIFIER,26-Dec-25,10996.0,885
+closing_balance,Water Tank,16-Sep-25,5200.0,886
+closing_balance,Working Allowance,31-Mar-26,1200000.0,887
+closing_balance,WRITEOFF,31-Mar-26,231855.0,888

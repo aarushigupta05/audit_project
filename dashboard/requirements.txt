@@ -1,0 +1,13 @@
+# The dashboard imports scripts/*.py directly (classify_document,
+# reconstruct_ledger_entries, combined_report, etc.), so it needs that
+# engine's own dependencies too, not just its UI ones -- pulled in from
+# the root requirements.txt rather than duplicated here. This line is the
+# fix for the 2026-10-04 "No module named 'sklearn'" pipeline failure:
+# dashboard/requirements.txt alone (streamlit/pandas/plotly) was never
+# enough to run the dashboard, because it never pulled in pdfplumber or
+# scikit-learn, both of which scripts/ actually requires. See
+# requirements.txt's own comment for the full explanation.
+-r ../requirements.txt
+
+streamlit>=1.37
+plotly>=5.20

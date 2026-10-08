@@ -1,0 +1,64 @@
+# ============================================================
+# audit_project .gitignore
+# ============================================================
+
+# --- Large generated CSVs (reproducible from raw PDFs + scripts) ---
+data/ledgers_redacted_reconstructed_entries.csv
+data/ledgers_redacted_reconstructed_state_events.csv
+data/ledgers_redacted_reconstructed_unresolved.csv
+data/general_ledger.csv
+
+# --- Raw PDFs (large binary assets and redacted source documents;
+#     kept out of Git for privacy, especially if the repo becomes public) ---
+data/raw_pdfs/*.pdf
+
+# --- Any quarantined / temp outputs ---
+data/*_quarantined.csv
+
+# --- Output directory ---
+output/
+
+# --- Python bytecode ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+.env/
+
+# --- IDE / OS clutter ---
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+.DS_Store
+
+# ============================================================
+# Explicitly TRACKED (overrides above where needed):
+#   - scripts/*.py            (all analysis + normalization scripts)
+#   - BASELINE_CHECKPOINT_*.md
+#   - README.md
+#   - data/*.csv              (small extracted tax-doc CSVs — track these)
+# ============================================================
+# Force-track small data CSVs even though data/ might be partially ignored
+!data/form26as.csv
+!data/itr_summary.csv
+
+# --- Not for the repository (added 2026-10-08, before making it public) ---
+# Raw table-extraction fragments from the 26AS PDF. Nothing reads them, and
+# one holds a third party's name and PAN.
+data/26AS__table_group_*.csv
+# Local safety copies of superseded data/outputs; they hold real ledger and
+# tax data and are kept only on the owner's machine.
+data/_pre_*_backup/
+# Per-upload files the dashboard writes for any uploaded ledger (they hold
+# that ledger's real account names). The anonymised sample set stays tracked.
+data/general_ledger__*.csv
+data/*_reconstructed_*.csv
+!data/Ledgers_Anonymised_reconstructed_*.csv

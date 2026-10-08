@@ -1,0 +1,13 @@
+# Dev/test-only dependencies, on top of requirements.txt and
+# dashboard/requirements.txt (install both of those too to run the tests --
+# several exercise the full dashboard/scripts pipeline).
+-r requirements.txt
+
+pytest
+# Used only by tests that generate synthetic PDF fixtures on the fly
+# (tests/test_classify_document.py, tests/test_dashboard_data.py) --
+# never imported by scripts/ or dashboard/ themselves. Already guarded by
+# pytest.importorskip("reportlab") in those tests, but declared here too
+# so a full dev setup installs it rather than silently skipping those
+# tests.
+reportlab

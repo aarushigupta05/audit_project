@@ -1,0 +1,12 @@
+# Base theme for the dashboard -- sets colors for Streamlit's own built-in
+# widgets (buttons, inputs, dataframes, the default chart palette) so the
+# dark theme is consistent even where dashboard/app.py's custom CSS doesn't
+# reach. The custom CSS in app.py layers glass-card panels and the dashed
+# upload drop-zone on top of this.
+[theme]
+base = "dark"
+primaryColor = "#4f8ff7"
+backgroundColor = "#0a0d12"
+secondaryBackgroundColor = "#10141b"
+textColor = "#e6e8eb"
+font = "sans serif"

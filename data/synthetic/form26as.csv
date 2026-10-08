@@ -1,0 +1,5 @@
+deductor_name,pan,financial_year,tds_reported_by_deductor,tds_claimed_in_itr_share,mismatch_flag_ground_truth
+Sharma Traders,AAAPD1234C,2024-25,177852.39,231422.87,YES
+Global Supplies Ltd,AAAPD1234C,2024-25,173567.15,173567.15,NO
+TechNova Pvt Ltd,AAAPD1234C,2024-25,130175.36,130175.36,NO
+Kumar & Co,AAAPD1234C,2024-25,390526.1,390526.1,NO
